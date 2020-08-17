@@ -68,13 +68,6 @@
 
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn): header only, dependency-free deep learning framework in C++14
 
-## Data Modeling
-* [HighFive](https://github.com/BlueBrain/HighFive): HighFive - Header-only C++ HDF5 interface
-
-* [sqlite_orm](https://github.com/fnc12/sqlite_orm): SQLite ORM light header only library for modern C++
-
-* [units](https://github.com/nholthaus/units): a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
-
 ## Data Presentation
 
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
@@ -91,7 +84,7 @@
 
 * [spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems
 
-## Data Structures
+## Data Structures and Algorithms
 
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue/): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 
@@ -100,6 +93,8 @@
 * [hopscotch-map](https://github.com/Tessil/hopscotch-map): C++ implementation of a fast hash map and hash set using hopscotch hashing
 
 * [MPMCQueue](https://github.com/rigtorp/MPMCQueue): A bounded multi-producer multi-consumer concurrent queue written in C++11
+
+* [NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
 
 * [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers.
 
@@ -139,6 +134,8 @@
 * [earcut.hpp](https://github.com/mapbox/earcut.hpp): Fast, header-only polygon triangulation
 
 * [entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more
+
+* [glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM)
 
 * [librg](https://github.com/zpl-c/librg): 🚀 Making multi-player gamedev simpler since 2017
 

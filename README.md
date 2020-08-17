@@ -88,6 +88,8 @@
 
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue/): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 
+* [eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
 * [frozen](https://github.com/serge-sans-paille/frozen): a header-only, constexpr alternative to gperf for C++14 users
 
 * [hopscotch-map](https://github.com/Tessil/hopscotch-map): C++ implementation of a fast hash map and hash set using hopscotch hashing

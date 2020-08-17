@@ -38,7 +38,11 @@
 
 * [cpptoml](https://github.com/skystrife/cpptoml): cpptoml is a header-only library for parsing TOML
 
+* [csv-parser](https://github.com/vincentlaucsb/csv-parser): A modern C++ library for reading, writing, and analyzing CSV (and similar) files.
+
 * [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
+
+* [fuser](https://github.com/Xeverous/fuser): Header-only library for automatic (de)serialization of C++ types to/from JSON.
 
 * [inih](https://github.com/jtilly/inih): This is a header only C++ version of inih.
 
@@ -48,11 +52,21 @@
 
 * [picojson](https://github.com/kazuho/picojson): a header-file-only, JSON parser serializer in C++
 
+* [rapidcsv](https://github.com/d99kris/rapidcsv): C++ CSV parser library
+
+* [rapidjson](https://github.com/Tencent/rapidjson): A fast JSON parser/generator for C++ with both SAX/DOM style API
+
+* [rapidxml](https://github.com/dwd/rapidxml): RapidXML fork; XML namespacing, per-element parsing, etc
+
+* [simpleini](https://github.com/brofield/simpleini): Cross-platform C++ library providing a simple API to read and write INI-style configuration files
+
 * [taocpp/json](https://github.com/taocpp/json): C++ header-only JSON library
 
 * [toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++
 
 * [tomlplusplus](https://github.com/marzer/tomlplusplus): Header-only TOML config file parser and serializer for C++17 (and later!).
+
+* [tortellini](https://github.com/Qix-/tortellini): A really stupid INI file format for C++11
 
 * [valijson](https://github.com/tristanpenman/valijson): Header-only C++ library for JSON Schema validation
 
@@ -78,7 +92,11 @@
 
 * [matplotlib-cpp](https://github.com/lava/matplotlib-cpp): Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 
+* [pprint](https://github.com/p-ranav/pprint): Pretty Printer for Modern C++
+
 ## Data Processing and Analysis
+
+* [fpm](https://github.com/MikeLankamp/fpm): C++ header-only fixed-point math library
 
 * [libmorton](https://github.com/Forceflow/libmorton): C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
 
@@ -163,6 +181,8 @@
 
 * [crow](https://github.com/ipkn/crow): Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
+* [jwt-cpp](https://github.com/Thalhammer/jwt-cpp): A header only library for creating and validating json web tokens in c++
+
 ## Language Bindings
 
 * [jni.hpp](https://github.com/mapbox/jni.hpp): A modern, type-safe, header-only, C++14 wrapper for JNI (Java Native Interface)
@@ -217,6 +237,8 @@
 
 * [nameof](https://github.com/Neargye/nameof): Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
 
+* [refl-cpp](https://github.com/veselink1/refl-cpp): A modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies
+
 * [visit_struct](https://github.com/garbageslam/visit_struct): A miniature library for struct-field reflection in C++
 
 ## Regular Expressions
@@ -234,6 +256,8 @@
 ## SIMD
 
 * [libsimdpp](https://github.com/p12tic/libsimdpp): Portable header-only C++ low level SIMD library
+
+* [simde](https://github.com/simd-everywhere/simde): Implementations of SIMD instruction sets for systems which don't natively support them.
 
 * [tsimd](https://github.com/ospray/tsimd): Fundamental C++ SIMD types for Intel CPUs (sse, avx, avx2, avx512)
 
@@ -279,4 +303,10 @@
 
 * [ut](https://github.com/boost-ext/ut): UT: C++20 μ(micro)/Unit Testing Framework
 
+## Units
 
+* [mpusz/units](https://github.com/mpusz/units): A compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation.
+
+* [nholthaus/units](https://github.com/nholthaus/units): a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
+
+* [SI](https://github.com/bernedom/SI): A header only C++ library that provides type safety and user defined literals for physical units

@@ -8,7 +8,7 @@
 
 ## Argument Parsing
 
-* [argh](https://github.com/adishavit/argh): Argh! A minimalist argument handler.
+* [Argh!](https://github.com/adishavit/argh): Argh! A minimalist argument handler.
 
 * [argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
 
@@ -22,6 +22,10 @@
 
 * [structopt](https://github.com/p-ranav/structopt): Parse command line arguments by defining a struct
 
+## Audio
+
+* [minimp3](https://github.com/lieff/minimp3): Minimalistic MP3 decoder single header library
+
 ## Benchmarking
 
 * [nanobench](https://github.com/martinus/nanobench): Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
@@ -31,6 +35,12 @@
 * [gzip-hpp](https://github.com/mapbox/gzip-hpp): Gzip header-only C++ library
 
 * [zstr](https://github.com/mateidavid/zstr): A C++ header-only ZLib wrapper
+
+## Cryptography and Security
+
+* [digestpp](https://github.com/kerukuro/digestpp): C++11 header-only message digest library
+
+* [PicoSHA2](https://github.com/okdshin/PicoSHA2): a header-file-only, SHA256 hash generator in C++
 
 ## Data Formats
 
@@ -106,23 +116,17 @@
 
 * [kfr](https://github.com/kfrlib/kfr): Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
 
-* [spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems
-
 ## Data Structures and Algorithms
 
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue/): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 
-* [eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+* [dynamic_bitset](https://github.com/pinam45/dynamic_bitset): Simple Useful Libraries: The C++17 header-only dynamic bitset
 
 * [frozen](https://github.com/serge-sans-paille/frozen): a header-only, constexpr alternative to gperf for C++14 users
-
-* [histogram](https://github.com/boostorg/histogram): Fast multi-dimensional generalized histogram with convenient interface for C++14
 
 * [hopscotch-map](https://github.com/Tessil/hopscotch-map): C++ implementation of a fast hash map and hash set using hopscotch hashing
 
 * [MPMCQueue](https://github.com/rigtorp/MPMCQueue): A bounded multi-producer multi-consumer concurrent queue written in C++11
-
-* [NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
 
 * [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers.
 
@@ -173,6 +177,10 @@
 
 * [voxelizer](https://github.com/karimnaaji/voxelizer): Header only mesh voxelizer in c99
 
+## GPU
+
+* [moderngpu](https://github.com/moderngpu/moderngpu): Patterns and behaviors for GPU computing
+
 * [vuda](https://github.com/jgbit/vuda): VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
 
 ## HTTP and the Web
@@ -184,6 +192,8 @@
 * [crow](https://github.com/ipkn/crow): Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp): A header only library for creating and validating json web tokens in c++
+
+* [RESTinio](https://github.com/Stiffstream/restinio): Cross-platform, efficient, customizable, and robust asynchronous HTTP/WebSocket server C++14 library with the right balance between performance and ease of use
 
 ## Language Bindings
 
@@ -198,6 +208,18 @@
 * [plog](https://github.com/SergiusTheBest/plog): Portable, simple and extensible C++ logging library
 
 * [spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
+
+## Mathematics
+
+* [amgcl](https://github.com/ddemidov/amgcl): C++ library for solving large sparse linear systems with algebraic multigrid method
+
+* [eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+
+* [NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
+
+* [spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems
+
+* [universal](https://github.com/stillwater-sc/universal): Universal Number Arithmetic
 
 ## Mocking
 
@@ -245,17 +267,13 @@
 
 * [visit_struct](https://github.com/garbageslam/visit_struct): A miniature library for struct-field reflection in C++
 
-## Regular Expressions
+## Regular Expression
 
 * [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions): A Compile time PCRE (almost) compatible regular expression matcher.
 
 ## Robitics
 
 * [manif](https://github.com/artivis/manif): A small c++11 header-only library for Lie theory.
-
-## Security
-
-* [PicoSHA2](https://github.com/okdshin/PicoSHA2): a header-file-only, SHA256 hash generator in C++
 
 ## SIMD
 
@@ -282,6 +300,8 @@
 * [variant-lite](https://github.com/martinmoene/variant-lite): variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library
 
 ## Statistics 
+
+* [histogram](https://github.com/boostorg/histogram): Fast multi-dimensional generalized histogram with convenient interface for C++14
 
 * [stats](https://github.com/kthohr/stats): A C++ header-only library of statistical distribution functions.
 

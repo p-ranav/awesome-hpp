@@ -5,9 +5,21 @@ A collection of awesome header-only C++ libraries
 
 * [argh](https://github.com/adishavit/argh): Argh! A minimalist argument handler.
 
+* [argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
+
 * [args](https://github.com/Taywee/args): A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
 
+* [CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
+
 * [clipp](https://github.com/muellan/clipp): easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
+
+* [flags](https://github.com/sailormoon/flags): ⛳ Simple, extensible, header-only C++17 argument parser released into the public domain.
+
+* [structopt](https://github.com/p-ranav/structopt): Parse command line arguments by defining a struct
+
+## Benchmarking
+
+* [nanobench](https://github.com/martinus/nanobench): Simple, fast, accurate single-header microbenchmarking functionality for C++11/14/17/20
 
 ## Compression
 
@@ -17,15 +29,23 @@ A collection of awesome header-only C++ libraries
 
 ## Data Formats
 
+* [cppcodec](https://github.com/tplgy/cppcodec): Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
+
 * [cpptoml](https://github.com/skystrife/cpptoml): cpptoml is a header-only library for parsing TOML
 
 * [inih](https://github.com/jtilly/inih): This is a header only C++ version of inih.
+
+* [jsoncons](https://github.com/danielaparker/jsoncons): A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
 
 * [nlohmann/json](https://github.com/nlohmann/json): JSON for Modern C++
 
 * [picojson](https://github.com/kazuho/picojson): a header-file-only, JSON parser serializer in C++
 
 * [taocpp/json](https://github.com/taocpp/json): C++ header-only JSON library
+
+* [toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++
+
+* [tomlplusplus](https://github.com/marzer/tomlplusplus): Header-only TOML config file parser and serializer for C++17 (and later!).
 
 * [valijson](https://github.com/tristanpenman/valijson): Header-only C++ library for JSON Schema validation
 
@@ -57,6 +77,9 @@ A collection of awesome header-only C++ libraries
 * [matplotlib-cpp](https://github.com/lava/matplotlib-cpp): Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 
 ## Data Processing and Analysis
+
+* [libmorton](https://github.com/Forceflow/libmorton): C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
+
 * [kalman](https://github.com/mherb/kalman): Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 
 * [kfr](https://github.com/kfrlib/kfr): Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
@@ -64,6 +87,8 @@ A collection of awesome header-only C++ libraries
 * [spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems
 
 ## Data Structures
+
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue/): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 
 * [frozen](https://github.com/serge-sans-paille/frozen): a header-only, constexpr alternative to gperf for C++14 users
 
@@ -76,6 +101,14 @@ A collection of awesome header-only C++ libraries
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing): Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20
 
 * [robin-map](https://github.com/Tessil/robin-map): C++ implementation of a fast hash map and hash set using robin hood hashing
+
+## Event Handling Mechanisms, State Machines, and Task Systems
+
+* [eventpp](https://github.com/wqking/eventpp): Event Dispatcher and callback list for C++
+
+* [tinyfsm](https://github.com/digint/tinyfsm): A simple C++ finite state machine library
+
+* [transwarp](https://github.com/bloomen/transwarp): A header-only C++ library for task concurrency
 
 ## File System
 
@@ -92,7 +125,9 @@ A collection of awesome header-only C++ libraries
 ## GUI
 * [GuiLite](https://github.com/idea4good/GuiLite): The smallest header-only GUI library(5 KLOC) for all platforms
 
-## Graphics & Game Development
+## Geometry, Graphics Processing, and Game Development
+
+* [cinolib](https://github.com/mlivesu/cinolib): A generic programming header only C++ library for processing polygonal and polyhedral meshes
 
 * [cr](https://github.com/fungos/cr): cr.h: A Simple C Hot Reload Header-only Library
 
@@ -104,7 +139,11 @@ A collection of awesome header-only C++ libraries
 
 * [nanort](https://github.com/lighttransport/nanort): NanoRT, single header only modern ray tracing kernel.
 
+* [tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator): Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
+
 * [voxelizer](https://github.com/karimnaaji/voxelizer): Header only mesh voxelizer in c99
+
+* [vuda](https://github.com/jgbit/vuda): VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications.
 
 ## HTTP and the Web
 
@@ -115,6 +154,8 @@ A collection of awesome header-only C++ libraries
 * [crow](https://github.com/ipkn/crow): Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
 
 ## Language Bindings
+
+* [jni.hpp](https://github.com/mapbox/jni.hpp): A modern, type-safe, header-only, C++14 wrapper for JNI (Java Native Interface)
 
 * [Selene](https://github.com/jeremyong/Selene): Simple C++11 friendly header-only bindings to Lua
 
@@ -142,7 +183,9 @@ A collection of awesome header-only C++ libraries
 
 * [ensmallen](https://github.com/mlpack/ensmallen): A header-only C++ library for numerical optimization
 
-## Parsing
+## Parsing Expression Grammars
+
+* [cpp-peglib](https://github.com/yhirose/cpp-peglib): A single file C++ header-only PEG (Parsing Expression Grammars) library
 
 * [PEGTL](https://github.com/taocpp/PEGTL): Parsing Expression Grammar Template Library
 
@@ -160,7 +203,11 @@ A collection of awesome header-only C++ libraries
 
 * [magic_enum](https://github.com/Neargye/magic_enum): Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code
 
+* [meta](https://github.com/skypjack/meta): Header-only, non-intrusive and macro-free runtime reflection system in C++
+
 * [nameof](https://github.com/Neargye/nameof): Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum
+
+* [visit_struct](https://github.com/garbageslam/visit_struct): A miniature library for struct-field reflection in C++
 
 ## Regular Expressions
 
@@ -178,17 +225,27 @@ A collection of awesome header-only C++ libraries
 
 * [libsimdpp](https://github.com/p12tic/libsimdpp): Portable header-only C++ low level SIMD library
 
+* [tsimd](https://github.com/ospray/tsimd): Fundamental C++ SIMD types for Intel CPUs (sse, avx, avx2, avx512)
+
 ## Standard/Support Libraries
+
+* [expected-lite](https://github.com/martinmoene/expected-lite): expected lite - Expected objects in C++11 and later in a single-file header-only library
 
 * [gsl-lite](https://github.com/gsl-lite/gsl-lite): gsl-lite – A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11, and later
 
 * [hana](https://github.com/boostorg/hana): Your standard library for metaprogramming
 
-## State Machines and Task Systems
+* [optional-lite](https://github.com/martinmoene/optional-lite): optional lite - A C++17-like optional, a nullable object for C++98, C++11 and later in a single-file header-only library
 
-* [tinyfsm](https://github.com/digint/tinyfsm): A simple C++ finite state machine library
+* [span-lite](https://github.com/martinmoene/span-lite): span lite - A C++20-like span for C++98, C++11 and later in a single-file header-only library
 
-* [transwarp](https://github.com/bloomen/transwarp): A header-only C++ library for task concurrency
+* [string-view-lite](https://github.com/martinmoene/string-view-lite): string_view lite - A C++17-like string_view for C++98, C++11 and later in a single-file header-only library
+
+* [variant-lite](https://github.com/martinmoene/variant-lite): variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library
+
+## Statistics 
+
+* [stats](https://github.com/kthohr/stats): A C++ header-only library of statistical distribution functions.
 
 ## Templating Engines
 
@@ -202,10 +259,14 @@ A collection of awesome header-only C++ libraries
 
 * [termcolor](https://github.com/ikalnytskyi/termcolor): Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 
-## Testing and Verification
+## Testing Frameworks
 
 * [Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later
 
 * [doctest](https://github.com/onqtam/doctest): The fastest feature-rich C++11/14/17/20 single-header testing framework
+
+* [lest](https://github.com/martinmoene/lest): A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant)
+
+* [ut](https://github.com/boost-ext/ut): UT: C++20 μ(micro)/Unit Testing Framework
 
 

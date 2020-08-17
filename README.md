@@ -184,7 +184,9 @@ A collection of awesome header-only C++ libraries
 
 * [hana](https://github.com/boostorg/hana): Your standard library for metaprogramming
 
-## Task Systems
+## State Machines and Task Systems
+
+* [tinyfsm](https://github.com/digint/tinyfsm): A simple C++ finite state machine library
 
 * [transwarp](https://github.com/bloomen/transwarp): A header-only C++ library for task concurrency
 

@@ -1,4 +1,7 @@
-# awesome-header-only-cpp
+<p align="center">
+  <img height="70" src="img/logo.png"/>  
+</p>
+
 A collection of awesome header-only C++ libraries
 
 ## Argument Parsing

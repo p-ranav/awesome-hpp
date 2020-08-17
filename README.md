@@ -38,21 +38,19 @@
 
 ## Cryptography and Security
 
+* [cppcodec](https://github.com/tplgy/cppcodec): Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
+
 * [digestpp](https://github.com/kerukuro/digestpp): C++11 header-only message digest library
 
 * [PicoSHA2](https://github.com/okdshin/PicoSHA2): a header-file-only, SHA256 hash generator in C++
 
 ## Data Formats
 
-* [cppcodec](https://github.com/tplgy/cppcodec): Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
-
 * [cpptoml](https://github.com/skystrife/cpptoml): cpptoml is a header-only library for parsing TOML
 
 * [csv-parser](https://github.com/vincentlaucsb/csv-parser): A modern C++ library for reading, writing, and analyzing CSV (and similar) files.
 
 * [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
-
-* [fuser](https://github.com/Xeverous/fuser): Header-only library for automatic (de)serialization of C++ types to/from JSON.
 
 * [inih](https://github.com/jtilly/inih): This is a header only C++ version of inih.
 
@@ -100,21 +98,13 @@
 
 * [fmt](https://github.com/fmtlib/fmt): A modern formatting library
 
-* [matplotlib-cpp](https://github.com/lava/matplotlib-cpp): Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
-
 * [pprint](https://github.com/p-ranav/pprint): Pretty Printer for Modern C++
 
 * [tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
 
-## Data Processing and Analysis
+## Data Querying
 
-* [fpm](https://github.com/MikeLankamp/fpm): C++ header-only fixed-point math library
-
-* [libmorton](https://github.com/Forceflow/libmorton): C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
-
-* [kalman](https://github.com/mherb/kalman): Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
-
-* [kfr](https://github.com/kfrlib/kfr): Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
+* [boolinq](https://github.com/k06a/boolinq): Simplest C++ header-only LINQ template library
 
 ## Data Structures and Algorithms
 
@@ -189,8 +179,6 @@
 
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib): A C++11 single-file header-only cross platform HTTP/HTTPS library.
 
-* [crow](https://github.com/ipkn/crow): Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
-
 * [jwt-cpp](https://github.com/Thalhammer/jwt-cpp): A header only library for creating and validating json web tokens in c++
 
 * [RESTinio](https://github.com/Stiffstream/restinio): Cross-platform, efficient, customizable, and robust asynchronous HTTP/WebSocket server C++14 library with the right balance between performance and ease of use
@@ -198,6 +186,8 @@
 ## Language Bindings
 
 * [jni.hpp](https://github.com/mapbox/jni.hpp): A modern, type-safe, header-only, C++14 wrapper for JNI (Java Native Interface)
+
+* [pybind11](https://github.com/pybind/pybind11): Seamless operability between C++11 and Python
 
 * [Selene](https://github.com/jeremyong/Selene): Simple C++11 friendly header-only bindings to Lua
 
@@ -215,7 +205,17 @@
 
 * [eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
+* [fpm](https://github.com/MikeLankamp/fpm): C++ header-only fixed-point math library
+
+* [kfr](https://github.com/kfrlib/kfr): Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON)
+
+* [libmorton](https://github.com/Forceflow/libmorton): C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates
+
+* [matplotlib-cpp](https://github.com/lava/matplotlib-cpp): Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
+
 * [NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library
+
+* [random](https://github.com/effolkronium/random): Random for modern C++ with convenient API
 
 * [spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems
 
@@ -245,14 +245,6 @@
 
 * [PEGTL](https://github.com/taocpp/PEGTL): Parsing Expression Grammar Template Library
 
-## Querying
-
-* [boolinq](https://github.com/k06a/boolinq): Simplest C++ header-only LINQ template library
-
-## Random
-
-* [random](https://github.com/effolkronium/random): Random for modern C++ with convenient API
-
 ## Reflection
 
 * [better-enums](https://github.com/aantron/better-enums): C++ compile-time enum to string, iteration, in a single header file
@@ -274,6 +266,12 @@
 ## Robitics
 
 * [manif](https://github.com/artivis/manif): A small c++11 header-only library for Lie theory.
+
+## Serialization
+
+* [cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
+
+* [fuser](https://github.com/Xeverous/fuser): Header-only library for automatic (de)serialization of C++ types to/from JSON.
 
 ## SIMD
 
@@ -302,6 +300,8 @@
 ## Statistics 
 
 * [histogram](https://github.com/boostorg/histogram): Fast multi-dimensional generalized histogram with convenient interface for C++14
+
+* [kalman](https://github.com/mherb/kalman): Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3
 
 * [stats](https://github.com/kthohr/stats): A C++ header-only library of statistical distribution functions.
 
@@ -336,3 +336,7 @@
 * [nholthaus/units](https://github.com/nholthaus/units): a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies.
 
 * [SI](https://github.com/bernedom/SI): A header only C++ library that provides type safety and user defined literals for physical units
+
+## Web Frameworks
+
+* [crow](https://github.com/ipkn/crow): Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)

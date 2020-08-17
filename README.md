@@ -94,6 +94,8 @@
 
 * [pprint](https://github.com/p-ranav/pprint): Pretty Printer for Modern C++
 
+* [tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
+
 ## Data Processing and Analysis
 
 * [fpm](https://github.com/MikeLankamp/fpm): C++ header-only fixed-point math library
@@ -190,6 +192,8 @@
 * [Selene](https://github.com/jeremyong/Selene): Simple C++11 friendly header-only bindings to Lua
 
 ## Logging
+
+* [easyloggingpp](https://github.com/amrayn/easyloggingpp): Single header C++ logging library. It is extremely powerful, extendable, light-weight, fast performing, thread and type safe and consists of many built-in features. It provides ability to write logs in your own customized format. It also provide support for logging your classes, third-party libraries, STL and third-party containers etc.
 
 * [plog](https://github.com/SergiusTheBest/plog): Portable, simple and extensible C++ logging library
 
@@ -294,6 +298,8 @@
 * [termcolor](https://github.com/ikalnytskyi/termcolor): Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force.
 
 ## Testing Frameworks
+
+* [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp): Native ApprovalTests for C++ on Linux, Mac and Windows
 
 * [Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later
 

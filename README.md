@@ -69,6 +69,8 @@ A collection of awesome header-only C++ libraries
 
 * [hopscotch-map](https://github.com/Tessil/hopscotch-map): C++ implementation of a fast hash map and hash set using hopscotch hashing
 
+* [MPMCQueue](https://github.com/rigtorp/MPMCQueue): A bounded multi-producer multi-consumer concurrent queue written in C++11
+
 * [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers.
 
 * [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing): Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20

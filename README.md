@@ -38,6 +38,8 @@
 
 * [cpptoml](https://github.com/skystrife/cpptoml): cpptoml is a header-only library for parsing TOML
 
+* [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
+
 * [inih](https://github.com/jtilly/inih): This is a header only C++ version of inih.
 
 * [jsoncons](https://github.com/danielaparker/jsoncons): A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON
@@ -68,9 +70,11 @@
 
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn): header only, dependency-free deep learning framework in C++14
 
-## Data Presentation
+## Data Formatting and Presentation
 
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint): A header-only library for C++(0x) that allows automagic pretty-printing of any container.
+
+* [fmt](https://github.com/fmtlib/fmt): A modern formatting library
 
 * [matplotlib-cpp](https://github.com/lava/matplotlib-cpp): Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib
 
@@ -91,6 +95,8 @@
 * [eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
 
 * [frozen](https://github.com/serge-sans-paille/frozen): a header-only, constexpr alternative to gperf for C++14 users
+
+* [histogram](https://github.com/boostorg/histogram): Fast multi-dimensional generalized histogram with convenient interface for C++14
 
 * [hopscotch-map](https://github.com/Tessil/hopscotch-map): C++ implementation of a fast hash map and hash set using hopscotch hashing
 

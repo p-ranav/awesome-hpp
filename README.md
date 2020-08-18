@@ -139,22 +139,22 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cinolib](https://github.com/mlivesu/cinolib) | [![GitHub stars](https://img.shields.io/github/stars/mlivesu/cinolib?style=social)](https://github.com/mlivesu/cinolib/stargazers/) | A generic programming header only C++ library for processing polygonal and polyhedral meshes. | |
-| [cr](https://github.com/fungos/cr) | [![GitHub stars](https://img.shields.io/github/stars/fungos/cr?style=social)](https://github.com/fungos/cr/stargazers/) | cr.h: A Simple C Hot Reload Header-only Library. | |
-| [earcut.hpp](https://github.com/mapbox/earcut.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=social)](https://github.com/mapbox/earcut.hpp/stargazers/) | Fast, header-only polygon triangulation. | |
-| [entt](https://github.com/skypjack/entt) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=social)](https://github.com/skypjack/entt/stargazers/) | Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. | |
-| [glm](https://github.com/g-truc/glm) | [![GitHub stars](https://img.shields.io/github/stars/g-truc/glm?style=social)](https://github.com/g-truc/glm/stargazers/) | OpenGL Mathematics (GLM). | |
-| [librg](https://github.com/zpl-c/librg) | [![GitHub stars](https://img.shields.io/github/stars/zpl-c/librg?style=social)](https://github.com/zpl-c/librg/stargazers/) | 🚀 Making multi-player gamedev simpler since 2017. | |
-| [nanort](https://github.com/lighttransport/nanort) | [![GitHub stars](https://img.shields.io/github/stars/lighttransport/nanort?style=social)](https://github.com/lighttransport/nanort/stargazers/) | NanoRT, single header only modern ray tracing kernel. | |
-| [tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) | [![GitHub stars](https://img.shields.io/github/stars/google-research/tiny-differentiable-simulator?style=social)](https://github.com/google-research/tiny-differentiable-simulator/stargazers/) | Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies. | |
+| [cinolib](https://github.com/mlivesu/cinolib) | [![GitHub stars](https://img.shields.io/github/stars/mlivesu/cinolib?style=social)](https://github.com/mlivesu/cinolib/stargazers/) | A generic programming header only C++ library for processing polygonal and polyhedral meshes. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [cr](https://github.com/fungos/cr) | [![GitHub stars](https://img.shields.io/github/stars/fungos/cr?style=social)](https://github.com/fungos/cr/stargazers/) | cr.h: A Simple C Hot Reload Header-only Library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [earcut.hpp](https://github.com/mapbox/earcut.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=social)](https://github.com/mapbox/earcut.hpp/stargazers/) | Fast, header-only polygon triangulation. | [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) |
+| [entt](https://github.com/skypjack/entt) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=social)](https://github.com/skypjack/entt/stargazers/) | Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [glm](https://github.com/g-truc/glm) | [![GitHub stars](https://img.shields.io/github/stars/g-truc/glm?style=social)](https://github.com/g-truc/glm/stargazers/) | OpenGL Mathematics (GLM). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [librg](https://github.com/zpl-c/librg) | [![GitHub stars](https://img.shields.io/github/stars/zpl-c/librg?style=social)](https://github.com/zpl-c/librg/stargazers/) | 🚀 Making multi-player gamedev simpler since 2017. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [nanort](https://github.com/lighttransport/nanort) | [![GitHub stars](https://img.shields.io/github/stars/lighttransport/nanort?style=social)](https://github.com/lighttransport/nanort/stargazers/) | NanoRT, single header only modern ray tracing kernel. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) | [![GitHub stars](https://img.shields.io/github/stars/google-research/tiny-differentiable-simulator?style=social)](https://github.com/google-research/tiny-differentiable-simulator/stargazers/) | Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [voxelizer](https://github.com/karimnaaji/voxelizer) | [![GitHub stars](https://img.shields.io/github/stars/karimnaaji/voxelizer?style=social)](https://github.com/karimnaaji/voxelizer/stargazers/) | Header only mesh voxelizer in c99. | |
 
 ## GPU
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [moderngpu](https://github.com/moderngpu/moderngpu) | | Patterns and behaviors for GPU computing. | |
-| [vuda](https://github.com/jgbit/vuda) | | VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | |
+| [moderngpu](https://github.com/moderngpu/moderngpu) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Patterns and behaviors for GPU computing. | |
+| [vuda](https://github.com/jgbit/vuda) | [![GitHub stars](https://img.shields.io/github/stars/jgbit/vuda?style=social)](https://github.com/jgbit/vuda/stargazers/) | VUDA is a header-only library based on Vulkan that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | |
 
 ## HTTP and the Web
 

@@ -153,8 +153,8 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [moderngpu](https://github.com/moderngpu/moderngpu) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Patterns and behaviors for GPU computing. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
-| [vuda](https://github.com/jgbit/vuda) | [![GitHub stars](https://img.shields.io/github/stars/jgbit/vuda?style=social)](https://github.com/jgbit/vuda/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vulkan-based library that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [moderngpu](https://github.com/moderngpu/moderngpu) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Patterns and behaviors for GPU computing. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [vuda](https://github.com/jgbit/vuda) | [![GitHub stars](https://img.shields.io/github/stars/jgbit/vuda?style=social)](https://github.com/jgbit/vuda/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vulkan-based library that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## HTTP and the Web
 

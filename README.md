@@ -8,13 +8,13 @@
 
 ## Argument Parsers
 
-| Library  | Stars &nbsp; &nbsp; &nbsp; &nbsp; |  Description | License &nbsp; &nbsp; |
+| Library  | Stars |  Description | License |
 |--- | ---| ---|--- |
-| [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) | Argh! A minimalist argument handler.  | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) &nbsp; &nbsp; | Argh! A minimalist argument handler.  | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; |
 | [argparse](https://github.com/p-ranav/argparse) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/argparse?style=social)](https://github.com/p-ranav/argparse/stargazers/) | Argument Parser for Modern C++.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [args](https://github.com/Taywee/args) | [![GitHub stars](https://img.shields.io/github/stars/Taywee/args?style=social)](https://github.com/Taywee/args/stargazers/)  |  A simple header-only C++ argument parser library.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [CLI11](https://github.com/CLIUtils/CLI11) | [![GitHub stars](https://img.shields.io/github/stars/CLIUtils/CLI11?style=social)](https://github.com/CLIUtils/CLI11/stargazers/) | CLI11 is a command line parser for C++11 and beyond. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| [clipp](https://github.com/muellan/clipp) | [![GitHub stars](https://img.shields.io/github/stars/muellan/clipp?style=social)](https://github.com/muellan/clipp/stargazers/) | easy to use, powerful & expressive command line argument parsing for modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [clipp](https://github.com/muellan/clipp) | [![GitHub stars](https://img.shields.io/github/stars/muellan/clipp?style=social)](https://github.com/muellan/clipp/stargazers/) | easy to use, powerful & expressive argument parsing for modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [flags](https://github.com/sailormoon/flags) | [![GitHub stars](https://img.shields.io/github/stars/sailormoon/flags?style=social)](https://github.com/sailormoon/flags/stargazers/) | ⛳ Simple, extensible, header-only C++17 argument parser. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [structopt](https://github.com/p-ranav/structopt) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/structopt?style=social)](https://github.com/p-ranav/structopt/stargazers/) | Parse command line arguments by defining a struct. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 

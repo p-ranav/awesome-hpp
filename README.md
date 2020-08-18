@@ -111,9 +111,9 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [eventpp](https://github.com/wqking/eventpp) | | Event Dispatcher and callback list for C++. | |
-| [tinyfsm](https://github.com/digint/tinyfsm) | | A simple C++ finite state machine library. | |
-| [transwarp](https://github.com/bloomen/transwarp) | | A header-only C++ library for task concurrency. | |
+| [eventpp](https://github.com/wqking/eventpp) | [![GitHub stars](https://img.shields.io/github/stars/wqking/eventpp?style=social)](https://github.com/wqking/eventpp/stargazers/) | Event Dispatcher and callback list for C++. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [transwarp](https://github.com/bloomen/transwarp) | [![GitHub stars](https://img.shields.io/github/stars/bloomen/transwarp?style=social)](https://github.com/bloomen/transwarp/stargazers/) | A header-only C++ library for task concurrency. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## File System
 

@@ -42,45 +42,32 @@
 
 | Library  | Description  | License |
 |--- |---|--- |
-| [cppcodec](https://github.com/tplgy/cppcodec) | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [cppcodec](https://github.com/tplgy/cppcodec) | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [digestpp](https://github.com/kerukuro/digestpp) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [PicoSHA2](https://github.com/okdshin/PicoSHA2) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Formats
 
-* [cpptoml](https://github.com/skystrife/cpptoml): cpptoml is a header-only library for parsing TOML.
 
-* [csv-parser](https://github.com/vincentlaucsb/csv-parser): A modern C++ library for reading, writing, and analyzing CSV (and similar) files.
-
-* [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser): This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files.
-
-* [inih](https://github.com/jtilly/inih): This is a header only C++ version of inih.
-
-* [jsoncons](https://github.com/danielaparker/jsoncons): A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON.
-
-* [nlohmann/json](https://github.com/nlohmann/json): JSON for Modern C++.
-
-* [picojson](https://github.com/kazuho/picojson): a header-file-only, JSON parser serializer in C++.
-
-* [rapidcsv](https://github.com/d99kris/rapidcsv): C++ CSV parser library.
-
-* [rapidjson](https://github.com/Tencent/rapidjson): A fast JSON parser/generator for C++ with both SAX/DOM style API.
-
-* [rapidxml](https://github.com/dwd/rapidxml): RapidXML fork; XML namespacing, per-element parsing, etc.
-
-* [simpleini](https://github.com/brofield/simpleini): Cross-platform C++ library providing a simple API to read and write INI-style configuration files.
-
-* [taocpp/json](https://github.com/taocpp/json): C++ header-only JSON library.
-
-* [toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++.
-
-* [tomlplusplus](https://github.com/marzer/tomlplusplus): Header-only TOML config file parser and serializer for C++17 (and later!).
-
-* [tortellini](https://github.com/Qix-/tortellini): A really stupid INI file format for C++11.
-
-* [valijson](https://github.com/tristanpenman/valijson): Header-only C++ library for JSON Schema validation.
-
-* [xml2json](https://github.com/Cheedoong/xml2json): A header-only C++ library converts XML to JSON.
+| Library  | Description  | License |
+|--- |---|--- |
+| [cpptoml](https://github.com/skystrife/cpptoml) | cpptoml is a header-only library for parsing TOML. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [csv-parser](https://github.com/vincentlaucsb/csv-parser) | A modern C++ library for reading, writing, and analyzing CSV (and similar) files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [inih](https://github.com/jtilly/inih) | This is a header only C++ version of inih. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [jsoncons](https://github.com/danielaparker/jsoncons) | A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [picojson](https://github.com/kazuho/picojson) | a header-file-only, JSON parser serializer in C++. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [rapidcsv](https://github.com/d99kris/rapidcsv) | C++ CSV parser library. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [rapidjson](https://github.com/Tencent/rapidjson) | A fast JSON parser/generator for C++ with both SAX/DOM style API. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [rapidxml](https://github.com/dwd/rapidxml) | RapidXML fork; XML namespacing, per-element parsing, etc. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [simpleini](https://github.com/brofield/simpleini) | Cross-platform C++ library providing a simple API to read and write INI-style configuration files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [taocpp/json](https://github.com/taocpp/json) | C++ header-only JSON library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [toml11](https://github.com/ToruNiina/toml11) | TOML for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tomlplusplus](https://github.com/marzer/tomlplusplus) | Header-only TOML config file parser and serializer for C++17 (and later!). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tortellini](https://github.com/Qix-/tortellini) | A really stupid INI file format for C++11. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [valijson](https://github.com/tristanpenman/valijson) | Header-only C++ library for JSON Schema validation. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [xml2json](https://github.com/Cheedoong/xml2json) | A header-only C++ library converts XML to JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Mining, Machine Learning, and Deep Learning
 

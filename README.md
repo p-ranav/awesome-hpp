@@ -71,15 +71,13 @@
 
 ## Data Mining, Machine Learning, and Deep Learning
 
-* [frugally-deep](https://github.com/Dobiasd/frugally-deep): Header-only library for using Keras models in C++.
-
-* [hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python library for fast approximate nearest neighbors.
-
-* [MiniDNN](https://github.com/yixuan/MiniDNN): A header-only C++ library for deep neural networks.
-
-* [nanoflann](https://github.com/jlblancoc/nanoflann): nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees.
-
-* [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn): header only, dependency-free deep learning framework in C++14.
+| Library  | Description  | License |
+|--- |---|--- |
+| [frugally-deep](https://github.com/Dobiasd/frugally-deep) | Header-only library for using Keras models in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [hnswlib](https://github.com/nmslib/hnswlib) | Header-only C++/python library for fast approximate nearest neighbors. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [MiniDNN](https://github.com/yixuan/MiniDNN) | A header-only C++ library for deep neural networks. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
+| [nanoflann](https://github.com/jlblancoc/nanoflann) | nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) | 
+| [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | header only, dependency-free deep learning framework in C++14. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Data Formatting and Presentation
 

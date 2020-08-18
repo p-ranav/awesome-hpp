@@ -8,7 +8,7 @@
 
 ## Argument Parsers
 
-| Library  | Stars |  License | Description  |
+| Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) | Argh! A minimalist argument handler.  | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [argparse](https://github.com/p-ranav/argparse) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/argparse?style=social)](https://github.com/p-ranav/argparse/stargazers/) | Argument Parser for Modern C++.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
@@ -20,64 +20,64 @@
 
 ## Audio
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library. | [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [minimp3](https://github.com/lieff/minimp3) | [![GitHub stars](https://img.shields.io/github/stars/lieff/minimp3?style=social)](https://github.com/lieff/minimp3/stargazers/) | Minimalistic MP3 decoder single header library. | [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Benchmarking
 
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [nanobench](https://github.com/martinus/nanobench) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [nanobench](https://github.com/martinus/nanobench) | [![GitHub stars](https://img.shields.io/github/stars/martinus/nanobench?style=social)](https://github.com/martinus/nanobench/stargazers/) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Compression
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [gzip-hpp](https://github.com/mapbox/gzip-hpp) | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
-| [zstr](https://github.com/mateidavid/zstr) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [gzip-hpp](https://github.com/mapbox/gzip-hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/gzip-hpp?style=social)](https://github.com/mapbox/gzip-hpp/stargazers/) | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [zstr](https://github.com/mateidavid/zstr) | [![GitHub stars](https://img.shields.io/github/stars/mateidavid/zstr?style=social)](https://github.com/mateidavid/zstr/stargazers/) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Cryptography and Security
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [cppcodec](https://github.com/tplgy/cppcodec) | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [digestpp](https://github.com/kerukuro/digestpp) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| [PicoSHA2](https://github.com/okdshin/PicoSHA2) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [cppcodec](https://github.com/tplgy/cppcodec) | &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;[![GitHub stars](https://img.shields.io/github/stars/tplgy/cppcodec?style=social)](https://github.com/tplgy/cppcodec/stargazers/) &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Formats
 
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [cpptoml](https://github.com/skystrife/cpptoml) | cpptoml is a header-only library for parsing TOML. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [csv-parser](https://github.com/vincentlaucsb/csv-parser) | A modern C++ library for reading, writing, and analyzing CSV (and similar) files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| [inih](https://github.com/jtilly/inih) | This is a header only C++ version of inih. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| [jsoncons](https://github.com/danielaparker/jsoncons) | A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
-| [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [picojson](https://github.com/kazuho/picojson) | a header-file-only, JSON parser serializer in C++. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
-| [rapidcsv](https://github.com/d99kris/rapidcsv) | C++ CSV parser library. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| [rapidjson](https://github.com/Tencent/rapidjson) | A fast JSON parser/generator for C++ with both SAX/DOM style API. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [rapidxml](https://github.com/dwd/rapidxml) | RapidXML fork; XML namespacing, per-element parsing, etc. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
-| [simpleini](https://github.com/brofield/simpleini) | Cross-platform C++ library providing a simple API to read and write INI-style configuration files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [taocpp/json](https://github.com/taocpp/json) | C++ header-only JSON library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [toml11](https://github.com/ToruNiina/toml11) | TOML for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [tomlplusplus](https://github.com/marzer/tomlplusplus) | Header-only TOML config file parser and serializer for C++17 (and later!). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [tortellini](https://github.com/Qix-/tortellini) | A really stupid INI file format for C++11. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [valijson](https://github.com/tristanpenman/valijson) | Header-only C++ library for JSON Schema validation. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
-| [xml2json](https://github.com/Cheedoong/xml2json) | A header-only C++ library converts XML to JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [cpptoml](https://github.com/skystrife/cpptoml) | [![GitHub stars](https://img.shields.io/github/stars/skystrife/cpptoml?style=social)](https://github.com/skystrife/cpptoml/stargazers/) | cpptoml is a header-only library for parsing TOML. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [csv-parser](https://github.com/vincentlaucsb/csv-parser) | [![GitHub stars](https://img.shields.io/github/stars/vincentlaucsb/csv-parser?style=social)](https://github.com/vincentlaucsb/csv-parser/stargazers/) | A modern C++ library for reading, writing, and analyzing CSV (and similar) files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | [![GitHub stars](https://img.shields.io/github/stars/ben-strasser/fast-cpp-csv-parser?style=social)](https://github.com/ben-strasser/fast-cpp-csv-parser/stargazers/) | This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [inih](https://github.com/jtilly/inih) | [![GitHub stars](https://img.shields.io/github/stars/jtilly/inih?style=social)](https://github.com/jtilly/inih/stargazers/) | This is a header only C++ version of inih. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [jsoncons](https://github.com/danielaparker/jsoncons) | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp;[![GitHub stars](https://img.shields.io/github/stars/danielaparker/jsoncons?style=social)](https://github.com/danielaparker/jsoncons/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; | A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [nlohmann/json](https://github.com/nlohmann/json) | [![GitHub stars](https://img.shields.io/github/stars/nlohmann/json?style=social)](https://github.com/nlohmann/json/stargazers/) | JSON for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [picojson](https://github.com/kazuho/picojson) | [![GitHub stars](https://img.shields.io/github/stars/kazuho/picojson?style=social)](https://github.com/kazuho/picojson/stargazers/) | a header-file-only, JSON parser serializer in C++. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [rapidcsv](https://github.com/d99kris/rapidcsv) | [![GitHub stars](https://img.shields.io/github/stars/d99kris/rapidcsv?style=social)](https://github.com/d99kris/rapidcsv/stargazers/) | C++ CSV parser library. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [rapidjson](https://github.com/Tencent/rapidjson) | [![GitHub stars](https://img.shields.io/github/stars/Tencent/rapidjson?style=social)](https://github.com/Tencent/rapidjson/stargazers/) | A fast JSON parser/generator for C++ with both SAX/DOM style API. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [rapidxml](https://github.com/dwd/rapidxml) | [![GitHub stars](https://img.shields.io/github/stars/dwd/rapidxml?style=social)](https://github.com/dwd/rapidxml/stargazers/) | RapidXML fork; XML namespacing, per-element parsing, etc. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [simpleini](https://github.com/brofield/simpleini) | [![GitHub stars](https://img.shields.io/github/stars/brofield/simpleini?style=social)](https://github.com/brofield/simpleini/stargazers/) | Cross-platform C++ library providing a simple API to read and write INI-style configuration files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [taocpp/json](https://github.com/taocpp/json) | [![GitHub stars](https://img.shields.io/github/stars/taocpp/json?style=social)](https://github.com/taocpp/json/stargazers/) | C++ header-only JSON library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [toml11](https://github.com/ToruNiina/toml11) | [![GitHub stars](https://img.shields.io/github/stars/ToruNiina/toml11?style=social)](https://github.com/ToruNiina/toml11/stargazers/) | TOML for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tomlplusplus](https://github.com/marzer/tomlplusplus) | [![GitHub stars](https://img.shields.io/github/stars/marzer/tomlplusplus?style=social)](https://github.com/marzer/tomlplusplus/stargazers/) | Header-only TOML config file parser and serializer for C++17 (and later!). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tortellini](https://github.com/Qix-/tortellini) | [![GitHub stars](https://img.shields.io/github/stars/Qix-/tortellini?style=social)](https://github.com/Qix-/tortellini/stargazers/) | A really stupid INI file format for C++11. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [valijson](https://github.com/tristanpenman/valijson) | [![GitHub stars](https://img.shields.io/github/stars/tristanpenman/valijson?style=social)](https://github.com/tristanpenman/valijson/stargazers/) | Header-only C++ library for JSON Schema validation. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [xml2json](https://github.com/Cheedoong/xml2json) | [![GitHub stars](https://img.shields.io/github/stars/Cheedoong/xml2json?style=social)](https://github.com/Cheedoong/xml2json/stargazers/) | A header-only C++ library converts XML to JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Mining, Machine Learning, and Deep Learning
 
-| Library  | Description  | License |
-|--- |---|--- |
-| [frugally-deep](https://github.com/Dobiasd/frugally-deep) | Header-only library for using Keras models in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [hnswlib](https://github.com/nmslib/hnswlib) | Header-only C++/python library for fast approximate nearest neighbors. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
-| [MiniDNN](https://github.com/yixuan/MiniDNN) | A header-only C++ library for deep neural networks. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
-| [nanoflann](https://github.com/jlblancoc/nanoflann) | nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) | 
-| [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | header only, dependency-free deep learning framework in C++14. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [frugally-deep](https://github.com/Dobiasd/frugally-deep) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/frugally-deep?style=social)](https://github.com/Dobiasd/frugally-deep/stargazers/) | Header-only library for using Keras models in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [hnswlib](https://github.com/nmslib/hnswlib) | [![GitHub stars](https://img.shields.io/github/stars/nmslib/hnswlib?style=social)](https://github.com/nmslib/hnswlib/stargazers/) | Header-only C++/python library for fast approximate nearest neighbors. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [MiniDNN](https://github.com/yixuan/MiniDNN) | [![GitHub stars](https://img.shields.io/github/stars/yixuan/MiniDNN?style=social)](https://github.com/yixuan/MiniDNN/stargazers/) | A header-only C++ library for deep neural networks. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
+| [nanoflann](https://github.com/jlblancoc/nanoflann) | [![GitHub stars](https://img.shields.io/github/stars/jlblancoc/nanoflann?style=social)](https://github.com/jlblancoc/nanoflann/stargazers/) | nanoflann: a C++11 header-only library for Nearest Neighbor (NN) search with KD-trees. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) | 
+| [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | [![GitHub stars](https://img.shields.io/github/stars/tiny-dnn/tiny-dnn?style=social)](https://github.com/tiny-dnn/tiny-dnn/stargazers/) | header only, dependency-free deep learning framework in C++14. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Data Formatting and Presentation
 

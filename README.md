@@ -119,7 +119,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [filesystem](https://github.com/gulrak/filesystem) | [![GitHub stars](https://img.shields.io/github/stars/gulrak/filesystemstyle=social)](https://github.com/gulrak/filesystem/stargazers/) | An implementation of C++17 std::filesystem for C++11 /C++14/C++17 on Windows, macOS, Linux and FreeBSD. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [filesystem](https://github.com/gulrak/filesystem) | [![GitHub stars](https://img.shields.io/github/stars/gulrak/filesystem?style=social)](https://github.com/gulrak/filesystem/stargazers/) | An implementation of C++17 std::filesystem for C++11 /C++14/C++17 on Windows, macOS, Linux and FreeBSD. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [mio](https://github.com/mandreyel/mio) | [![GitHub stars](https://img.shields.io/github/stars/mandreyel/mio?style=social)](https://github.com/mandreyel/mio/stargazers/) | Cross-platform C++11 header-only library for memory mapped file IO. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tinydir](https://github.com/cxong/tinydir) | [![GitHub stars](https://img.shields.io/github/stars/cxong/tinydir?style=social)](https://github.com/wqking/cxong/tinydir/) | Lightweight, portable and easy to integrate C directory and file reader. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 

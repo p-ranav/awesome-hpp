@@ -10,7 +10,7 @@
 
 | Library  |  License | Description  |
 |--- |---|--- |
-| [Argh!](https://github.com/adishavit/argh)  | Argh! A minimalist argument handler.  | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [Argh!](https://github.com/adishavit/argh)  | Argh! A minimalist argument handler.  | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [argparse](https://github.com/p-ranav/argparse)  | Argument Parser for Modern C++.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [args](https://github.com/Taywee/args)  |  A simple header-only C++ argument parser library.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [CLI11](https://github.com/CLIUtils/CLI11) | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
@@ -40,11 +40,11 @@
 
 ## Cryptography and Security
 
-* [cppcodec](https://github.com/tplgy/cppcodec): Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. MIT licensed with consistent, flexible API.
-
-* [digestpp](https://github.com/kerukuro/digestpp): C++11 header-only message digest library.
-
-* [PicoSHA2](https://github.com/okdshin/PicoSHA2): a header-file-only, SHA256 hash generator in C++.
+| Library  | Description  | License |
+|--- |---|--- |
+| [cppcodec](https://github.com/tplgy/cppcodec) | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [digestpp](https://github.com/kerukuro/digestpp) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
+| [PicoSHA2](https://github.com/okdshin/PicoSHA2) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Formats
 

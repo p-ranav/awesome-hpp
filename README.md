@@ -43,7 +43,7 @@
 | Library  | Description  | License |
 |--- |---|--- |
 | [cppcodec](https://github.com/tplgy/cppcodec) | Header-only C++11 library to encode/decode base64, base64url, base32, base32hex and hex (a.k.a. base16) as specified in RFC 4648, plus Crockford's base32. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [digestpp](https://github.com/kerukuro/digestpp) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
+| [digestpp](https://github.com/kerukuro/digestpp) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [PicoSHA2](https://github.com/okdshin/PicoSHA2) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Formats
@@ -53,7 +53,7 @@
 |--- |---|--- |
 | [cpptoml](https://github.com/skystrife/cpptoml) | cpptoml is a header-only library for parsing TOML. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [csv-parser](https://github.com/vincentlaucsb/csv-parser) | A modern C++ library for reading, writing, and analyzing CSV (and similar) files. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [fast-cpp-csv-parser](https://github.com/ben-strasser/fast-cpp-csv-parser) | This is a small, easy-to-use and fast header-only library for reading comma separated value (CSV) files. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [inih](https://github.com/jtilly/inih) | This is a header only C++ version of inih. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [jsoncons](https://github.com/danielaparker/jsoncons) | A C++, header-only library for constructing JSON and JSON-like data formats, with JSON Pointer, JSON Patch, JSONPath, JMESPath, CSV, MessagePack, CBOR, BSON, UBJSON. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [nlohmann/json](https://github.com/nlohmann/json) | JSON for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

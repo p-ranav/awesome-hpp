@@ -8,8 +8,6 @@
 
 ## Argument Parsing
 
-<div class="awesome_table">
-
 | Library  |  License | Description  |
 |--- |---|--- |
 | [Argh!](https://github.com/adishavit/argh)  | Argh! A minimalist argument handler.  | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
@@ -20,26 +18,25 @@
 | [flags](https://github.com/sailormoon/flags) | ⛳ Simple, extensible, header-only C++17 argument parser released into the public domain. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [structopt](https://github.com/p-ranav/structopt) | Parse command line arguments by defining a struct. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
-</div>
-
 ## Audio
 
 | Library  | Description  | License |
-|--- |---|---|
-| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library. | Creative Commons Zero v1.0 Universal |
+|--- |---|--- |
+| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library. | [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Benchmarking
 
 
 | Library  | Description  | License |
-|--- |---|---|
-| [nanobench](https://github.com/martinus/nanobench) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | MIT |
+|--- |---|--- |
+| [nanobench](https://github.com/martinus/nanobench) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Compression
 
-* [gzip-hpp](https://github.com/mapbox/gzip-hpp): Gzip header-only C++ library.
-
-* [zstr](https://github.com/mateidavid/zstr): A C++ header-only ZLib wrapper.
+| Library  | Description  | License |
+|--- |---|--- |
+| [gzip-hpp](https://github.com/mapbox/gzip-hpp) | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [zstr](https://github.com/mateidavid/zstr) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Cryptography and Security
 

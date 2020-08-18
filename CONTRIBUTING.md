@@ -8,7 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
   - No need to say "header-only" - every library in the README is header-only
   - Examples:
     - **THIS IS TOO LONG** `<XYZ> is a lightweight header only library for doing X and Y in Z in C++17 (and later!)`
-    - **THIS IS BETTER** `X and Y in Z in >=C++17`
+    - **THIS IS BETTER** `X and Y in Z in >=C++17.`
 * End all descriptions with a full stop/period.
 * Make sure your text editor is set to remove trailing whitespace.
 * Order projects alphabetically within each category.

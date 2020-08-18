@@ -98,14 +98,14 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [concurrentqueue](https://github.com/cameron314/concurrentqueue/) | [![GitHub stars](https://img.shields.io/github/stars/cameron314/concurrentqueue?style=social)](https://github.com/cameron314/concurrentqueue/stargazers/) | A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. | |
-| [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) | [![GitHub stars](https://img.shields.io/github/stars/pinam45/dynamic_bitset?style=social)](https://github.com/pinam45/dynamic_bitset/stargazers/) | Simple Useful Libraries: The C++17 header-only dynamic bitset. | |
-| [frozen](https://github.com/serge-sans-paille/frozen) | [![GitHub stars](https://img.shields.io/github/stars/serge-sans-paille/frozen?style=social)](https://github.com/serge-sans-paille/frozen/stargazers/) | a header-only, constexpr alternative to gperf for C++14 users. | |
-| [hopscotch-map](https://github.com/Tessil/hopscotch-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/hopscotch-map?style=social)](https://github.com/Tessil/hopscotch-map/stargazers/) | C++ implementation of a fast hash map and hash set using hopscotch hashing. | |
+| [concurrentqueue](https://github.com/cameron314/concurrentqueue/) | [![GitHub stars](https://img.shields.io/github/stars/cameron314/concurrentqueue?style=social)](https://github.com/cameron314/concurrentqueue/stargazers/) | Fast multi-producer, multi-consumer lock-free concurrent queue. | |
+| [dynamic_bitset](https://github.com/pinam45/dynamic_bitset) | [![GitHub stars](https://img.shields.io/github/stars/pinam45/dynamic_bitset?style=social)](https://github.com/pinam45/dynamic_bitset/stargazers/) | The C++17 header-only dynamic bitset. | |
+| [frozen](https://github.com/serge-sans-paille/frozen) | [![GitHub stars](https://img.shields.io/github/stars/serge-sans-paille/frozen?style=social)](https://github.com/serge-sans-paille/frozen/stargazers/) | Constexpr alternative to gperf for C++14 users. | |
+| [hopscotch-map](https://github.com/Tessil/hopscotch-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/hopscotch-map?style=social)](https://github.com/Tessil/hopscotch-map/stargazers/) | Fast hash map and hash set using hopscotch hashing. | |
 | [MPMCQueue](https://github.com/rigtorp/MPMCQueue) | [![GitHub stars](https://img.shields.io/github/stars/rigtorp/MPMCQueue?style=social)](https://github.com/rigtorp/MPMCQueue/stargazers/) | A bounded multi-producer multi-consumer concurrent queue written in C++11. | |
-| [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) | [![GitHub stars](https://img.shields.io/github/stars/greg7mdp/parallel-hashmap?style=social)](https://github.com/greg7mdp/parallel-hashmap/stargazers/) | A family of header-only, very fast and memory-friendly hashmap and btree containers. | |
+| [parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap) | [![GitHub stars](https://img.shields.io/github/stars/greg7mdp/parallel-hashmap?style=social)](https://github.com/greg7mdp/parallel-hashmap/stargazers/) | Very fast and memory-friendly hashmap and btree containers. | |
 | [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing) | [![GitHub stars](https://img.shields.io/github/stars/martinus/robin-hood-hashing?style=social)](https://github.com/martinus/robin-hood-hashing/stargazers/) | Fast & memory efficient hashtable based on robin hood hashing for C++11/14/17/20. | |
-| [robin-map](https://github.com/Tessil/robin-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/robin-map?style=social)](https://github.com/Tessil/robin-map/stargazers/) | C++ implementation of a fast hash map and hash set using robin hood hashing. | |
+| [robin-map](https://github.com/Tessil/robin-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/robin-map?style=social)](https://github.com/Tessil/robin-map/stargazers/) | Fast hash map and hash set using robin hood hashing. | |
 
 ## Event Handling Mechanisms, State Machines, and Task Systems
 

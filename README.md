@@ -83,7 +83,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cxx prettyprint](https://github.com/louisdx/cxx-prettyprint) | [![GitHub stars](https://img.shields.io/github/stars/louisdx/cxx-prettyprint?style=social)](https://github.com/louisdx/cxx-prettyprint/stargazers/) | Automagic pretty-printing of any container in C++(0x). | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [cxx prettyprint](https://github.com/louisdx/cxx-prettyprint) | [![GitHub stars](https://img.shields.io/github/stars/louisdx/cxx-prettyprint?style=social)](https://github.com/louisdx/cxx-prettyprint/stargazers/) | Pretty-printing of any container in C++(0x). | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [fmt](https://github.com/fmtlib/fmt) | [![GitHub stars](https://img.shields.io/github/stars/fmtlib/fmt?style=social)](https://github.com/fmtlib/fmt/stargazers/) | A modern formatting library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [pprint](https://github.com/p-ranav/pprint) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/pprint?style=social)](https://github.com/p-ranav/pprint/stargazers/) | Pretty Printer for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tabulate](https://github.com/p-ranav/tabulate) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/tabulate?style=social)](https://github.com/p-ranav/tabulate/stargazers/) | Table Maker for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
@@ -121,7 +121,7 @@
 |--- | ---| ---|--- |
 | [filesystem](https://github.com/gulrak/filesystem) | [![GitHub stars](https://img.shields.io/github/stars/gulrak/filesystem?style=social)](https://github.com/gulrak/filesystem/stargazers/) | Cross-platform implementation of std::filesystem for C++11/14/17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [mio](https://github.com/mandreyel/mio) | [![GitHub stars](https://img.shields.io/github/stars/mandreyel/mio?style=social)](https://github.com/mandreyel/mio/stargazers/) | Cross-platform C++11 memory mapped file IO. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [tinydir](https://github.com/cxong/tinydir) | [![GitHub stars](https://img.shields.io/github/stars/cxong/tinydir?style=social)](https://github.com/wqking/cxong/tinydir/) &nbsp; &nbsp; &nbsp; | Lightweight, portable and easy to integrate C directory and file reader. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [tinydir](https://github.com/cxong/tinydir) | [![GitHub stars](https://img.shields.io/github/stars/cxong/tinydir?style=social)](https://github.com/wqking/cxong/tinydir/) &nbsp; &nbsp; &nbsp; | Lightweight, portable C directory and file reader. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 
 ## Functional Programming
 
@@ -133,7 +133,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [GuiLite](https://github.com/idea4good/GuiLite) | | The smallest header-only GUI library(5 KLOC) for all platforms. | |
+| [GuiLite](https://github.com/idea4good/GuiLite) | [![GitHub stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=social)](https://github.com/idea4good/GuiLite/stargazers/) | The smallest header-only GUI library(5 KLOC) for all platforms. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 
 ## Geometry, Graphics Processing, and Game Development
 

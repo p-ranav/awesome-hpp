@@ -6,7 +6,7 @@
   <b>A collection of awesome header-only C++ libraries</b>
 </p>
 
-## Argument Parsing
+## Argument Parsers
 
 | Library  |  License | Description  |
 |--- |---|--- |

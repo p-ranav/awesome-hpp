@@ -8,7 +8,7 @@
 
 ## Argument Parsers
 
-| Library  | Stars |  Description | License  |
+| Library  | Stars &nbsp; &nbsp; &nbsp; &nbsp; |  Description | License &nbsp; &nbsp; |
 |--- | ---| ---|--- |
 | [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) | Argh! A minimalist argument handler.  | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [argparse](https://github.com/p-ranav/argparse) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/argparse?style=social)](https://github.com/p-ranav/argparse/stargazers/) | Argument Parser for Modern C++.  | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

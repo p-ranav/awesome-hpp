@@ -43,7 +43,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [cppcodec](https://github.com/tplgy/cppcodec) | [![GitHub stars](https://img.shields.io/github/stars/tplgy/cppcodec?style=social)](https://github.com/tplgy/cppcodec/stargazers/) | Encode/decode base64, base64url, base32, etc. | MIT |
-| [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) | C++11 header-only message digest library. | Unlicense |
+| [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) &nbsp; &nbsp; | C++11 header-only message digest library. | Unlicense |
 | [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Feader-file-only, SHA256 hash generator in C++. | MIT |
 
 ## Data Formats

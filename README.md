@@ -169,9 +169,9 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [jni.hpp](https://github.com/mapbox/jni.hpp) | | A modern, type-safe, header-only, C++14 wrapper for JNI (Java Native Interface). | |
-| [pybind11](https://github.com/pybind/pybind11) | | Seamless operability between C++11 and Python. | |
-| [Selene](https://github.com/jeremyong/Selene) | | Simple C++11 friendly header-only bindings to Lua. | |
+| [jni.hpp](https://github.com/mapbox/jni.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/jni.hpp?style=social)](https://github.com/mapbox/jni.hpp/stargazers/) | A modern, type-safe, C++14 wrapper for JNI. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [pybind11](https://github.com/pybind/pybind11) | [![GitHub stars](https://img.shields.io/github/stars/pybind/pybind11?style=social)](https://github.com/pybind/pybind11/stargazers/) | Seamless operability between C++11 and Python. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [Selene](https://github.com/jeremyong/Selene) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Simple C++11 friendly bindings to Lua. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 
 ## Logging
 

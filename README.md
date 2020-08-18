@@ -35,14 +35,14 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [gzip-hpp](https://github.com/mapbox/gzip-hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/gzip-hpp?style=social)](https://github.com/mapbox/gzip-hpp/stargazers/) &nbsp; &nbsp; &nbsp; | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [gzip-hpp](https://github.com/mapbox/gzip-hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/gzip-hpp?style=social)](https://github.com/mapbox/gzip-hpp/stargazers/) &nbsp; &nbsp; | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 | [zstr](https://github.com/mateidavid/zstr) | [![GitHub stars](https://img.shields.io/github/stars/mateidavid/zstr?style=social)](https://github.com/mateidavid/zstr/stargazers/) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Cryptography and Security
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cppcodec](https://github.com/tplgy/cppcodec) | [![GitHub stars](https://img.shields.io/github/stars/tplgy/cppcodec?style=social)](https://github.com/tplgy/cppcodec/stargazers/) &nbsp; &nbsp; &nbsp; | Encode/decode base64, base64url, base32, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [cppcodec](https://github.com/tplgy/cppcodec) | [![GitHub stars](https://img.shields.io/github/stars/tplgy/cppcodec?style=social)](https://github.com/tplgy/cppcodec/stargazers/) &nbsp; &nbsp; | Encode/decode base64, base64url, base32, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 

@@ -185,137 +185,137 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [amgcl](https://github.com/ddemidov/amgcl) | | C++ library for solving large sparse linear systems with algebraic multigrid method. | |
+| [amgcl](https://github.com/ddemidov/amgcl) | [![GitHub stars](https://img.shields.io/github/stars/ddemidov/amgcl?style=social)](https://github.com/ddemidov/amgcl/stargazers/) | C++ library for solving large sparse linear systems with algebraic multigrid method. | |
 | [eigen](https://gitlab.com/libeigen/eigen) | | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms. | |
-| [fpm](https://github.com/MikeLankamp/fpm) | | C++ header-only fixed-point math library. | |
-| [kfr](https://github.com/kfrlib/kfr) | | Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON). | |
-| [libmorton](https://github.com/Forceflow/libmorton) | | C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates. | |
-| [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) | | Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib. | |
-| [NumCpp](https://github.com/dpilger26/NumCpp) | | C++ implementation of the Python Numpy library. | |
-| [random](https://github.com/effolkronium/random) | | Random for modern C++ with convenient API. | |
-| [spectra](https://github.com/yixuan/spectra) | | A header-only C++ library for large scale eigenvalue problems. | |
-| [universal](https://github.com/stillwater-sc/universal) | | Universal Number Arithmetic. | |
+| [fpm](https://github.com/MikeLankamp/fpm) | [![GitHub stars](https://img.shields.io/github/stars/MikeLankamp/fpm?style=social)](https://github.com/MikeLankamp/fpm/stargazers/) | C++ header-only fixed-point math library. | |
+| [kfr](https://github.com/kfrlib/kfr) | [![GitHub stars](https://img.shields.io/github/stars/kfrlib/kfr?style=social)](https://github.com/kfrlib/kfr/stargazers/) | Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON). | |
+| [libmorton](https://github.com/Forceflow/libmorton) | [![GitHub stars](https://img.shields.io/github/stars/Forceflow/libmorton?style=social)](https://github.com/Forceflow/libmorton/stargazers/) | C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates. | |
+| [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) | [![GitHub stars](https://img.shields.io/github/stars/lava/matplotlib-cpp?style=social)](https://github.com/lava/matplotlib-cpp/stargazers/) | Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib. | |
+| [NumCpp](https://github.com/dpilger26/NumCpp) | [![GitHub stars](https://img.shields.io/github/stars/dpilger26/NumCpp?style=social)](https://github.com/dpilger26/NumCpp/stargazers/) | C++ implementation of the Python Numpy library. | |
+| [random](https://github.com/effolkronium/random) | [![GitHub stars](https://img.shields.io/github/stars/effolkronium/random?style=social)](https://github.com/effolkronium/random/stargazers/) | Random for modern C++ with convenient API. | |
+| [spectra](https://github.com/yixuan/spectra) | [![GitHub stars](https://img.shields.io/github/stars/yixuan/spectra?style=social)](https://github.com/yixuan/spectra/stargazers/) | A header-only C++ library for large scale eigenvalue problems. | |
+| [universal](https://github.com/stillwater-sc/universal) | [![GitHub stars](https://img.shields.io/github/stars/stillwater-sc/universal?style=social)](https://github.com/stillwater-sc/universal/stargazers/) | Universal Number Arithmetic. | |
 
 ## Mocking
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [FakeIt](https://github.com/eranpeer/FakeIt) | | C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking. | |
-| [trompeloeil](https://github.com/rollbear/trompeloeil) | | Header only C++14 mocking framework. | |
+| [FakeIt](https://github.com/eranpeer/FakeIt) | [![GitHub stars](https://img.shields.io/github/stars/eranpeer/FakeIt?style=social)](https://github.com/eranpeer/FakeIt/stargazers/) | C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking. | |
+| [trompeloeil](https://github.com/rollbear/trompeloeil) | [![GitHub stars](https://img.shields.io/github/stars/rollbear/trompeloeil?style=social)](https://github.com/rollbear/trompeloeil/stargazers/) | Header only C++14 mocking framework. | |
 
 ## Networking
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [brynet](https://github.com/IronsDu/brynet) | | A Header-Only cross-platform C++ TCP network library. | |
-| [cppzmq](https://github.com/zeromq/cppzmq) | | Header-only C++ binding for libzmq. | |
-| [uvw](https://github.com/skypjack/uvw) | | Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library. | |
+| [brynet](https://github.com/IronsDu/brynet) | [![GitHub stars](https://img.shields.io/github/stars/IronsDu/brynet?style=social)](https://github.com/IronsDu/brynet/stargazers/) | A Header-Only cross-platform C++ TCP network library. | |
+| [cppzmq](https://github.com/zeromq/cppzmq) | [![GitHub stars](https://img.shields.io/github/stars/zeromq/cppzmq?style=social)](https://github.com/zeromq/cppzmq/stargazers/) | Header-only C++ binding for libzmq. | |
+| [uvw](https://github.com/skypjack/uvw) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/uvw?style=social)](https://github.com/skypjack/uvw/stargazers/) | Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library. | |
 
 ## Optimization
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [ensmallen](https://github.com/mlpack/ensmallen) | | A header-only C++ library for numerical optimization. | |
+| [ensmallen](https://github.com/mlpack/ensmallen) | [![GitHub stars](https://img.shields.io/github/stars/mlpack/ensmallen?style=social)](https://github.com/mlpack/ensmallen/stargazers/) | A header-only C++ library for numerical optimization. | |
 
 ## Parsing Expression Grammars
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cpp-peglib](https://github.com/yhirose/cpp-peglib) | | A single file C++ header-only PEG (Parsing Expression Grammars) library. | |
-| [PEGTL](https://github.com/taocpp/PEGTL) | | Parsing Expression Grammar Template Library. | |
+| [cpp-peglib](https://github.com/yhirose/cpp-peglib) | [![GitHub stars](https://img.shields.io/github/stars/yhirose/cpp-peglib?style=social)](https://github.com/yhirose/cpp-peglib/stargazers/) | A single file C++ header-only PEG (Parsing Expression Grammars) library. | |
+| [PEGTL](https://github.com/taocpp/PEGTL) | [![GitHub stars](https://img.shields.io/github/stars/taocpp/PEGTL?style=social)](https://github.com/taocpp/PEGTL/stargazers/) | Parsing Expression Grammar Template Library. | |
 
 ## Reflection
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [better-enums](https://github.com/aantron/better-enums) | | C++ compile-time enum to string, iteration, in a single header file. | |
-| [magic_enum](https://github.com/Neargye/magic_enum) | | Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code. | |
-| [meta](https://github.com/skypjack/meta) | | Header-only, non-intrusive and macro-free runtime reflection system in C++. | |
-| [nameof](https://github.com/Neargye/nameof) | | Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum. | |
-| [refl-cpp](https://github.com/veselink1/refl-cpp) | | A modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies. | |
-| [visit_struct](https://github.com/garbageslam/visit_struct) | | A miniature library for struct-field reflection in C++. | |
+| [better-enums](https://github.com/aantron/better-enums) | [![GitHub stars](https://img.shields.io/github/stars/aantron/better-enums?style=social)](https://github.com/amrayn/aantron/better-enums/) | C++ compile-time enum to string, iteration, in a single header file. | |
+| [magic_enum](https://github.com/Neargye/magic_enum) | [![GitHub stars](https://img.shields.io/github/stars/Neargye/magic_enum?style=social)](https://github.com/Neargye/magic_enum/stargazers/) | Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code. | |
+| [meta](https://github.com/skypjack/meta) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/meta?style=social)](https://github.com/skypjack/meta/stargazers/) | Header-only, non-intrusive and macro-free runtime reflection system in C++. | |
+| [nameof](https://github.com/Neargye/nameof) | [![GitHub stars](https://img.shields.io/github/stars/Neargye/nameof?style=social)](https://github.com/Neargye/nameof/stargazers/) | Nameof operator for modern C++, simply obtain the name of a variable, type, function, macro, and enum. | |
+| [refl-cpp](https://github.com/veselink1/refl-cpp) | [![GitHub stars](https://img.shields.io/github/stars/veselink1/refl-cpp?style=social)](https://github.com/veselink1/refl-cpp/stargazers/) | A modern compile-time reflection library for C++ with support for overloads, templates, attributes and proxies. | |
+| [visit_struct](https://github.com/garbageslam/visit_struct) | [![GitHub stars](https://img.shields.io/github/stars/garbageslam/visit_struct?style=social)](https://github.com/garbageslam/visit_struct/stargazers/) | A miniature library for struct-field reflection in C++. | |
 
 ## Regular Expression
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) | | A Compile time PCRE (almost) compatible regular expression matcher. | |
+| [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) | [![GitHub stars](https://img.shields.io/github/stars/hanickadot/compile-time-regular-expressions?style=social)](https://github.com/hanickadot/compile-time-regular-expressions/stargazers/) | A Compile time PCRE (almost) compatible regular expression matcher. | |
 
 ## Robitics
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [manif](https://github.com/artivis/manif) | | A small c++11 header-only library for Lie theory. | |
+| [manif](https://github.com/artivis/manif) | [![GitHub stars](https://img.shields.io/github/stars/artivis/manif?style=social)](https://github.com/artivis/manif/stargazers/) | A small c++11 header-only library for Lie theory. | |
 
 ## Serialization
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cereal](https://github.com/USCiLab/cereal) | | A C++11 library for serialization. | |
-| [fuser](https://github.com/Xeverous/fuser) | | Header-only library for automatic (de)serialization of C++ types to/from JSON. | |
+| [cereal](https://github.com/USCiLab/cereal) | [![GitHub stars](https://img.shields.io/github/stars/USCiLab/cereal?style=social)](https://github.com/USCiLab/cereal/stargazers/) | A C++11 library for serialization. | |
+| [fuser](https://github.com/Xeverous/fuser) | [![GitHub stars](https://img.shields.io/github/stars/Xeverous/fuser?style=social)](https://github.com/Xeverous/fuser/stargazers/) | Header-only library for automatic (de)serialization of C++ types to/from JSON. | |
 
 ## SIMD
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [libsimdpp](https://github.com/p12tic/libsimdpp) | | Portable header-only C++ low level SIMD library. | |
-| [simde](https://github.com/simd-everywhere/simde) | | Implementations of SIMD instruction sets for systems which don't natively support them. | |
-| [tsimd](https://github.com/ospray/tsimd) | | Fundamental C++ SIMD types for Intel CPUs (sse, avx, avx2, avx512). | |
+| [libsimdpp](https://github.com/p12tic/libsimdpp) | [![GitHub stars](https://img.shields.io/github/stars/p12tic/libsimdpp?style=social)](https://github.com/p12tic/libsimdpp/stargazers/) | Portable header-only C++ low level SIMD library. | |
+| [simde](https://github.com/simd-everywhere/simde) | [![GitHub stars](https://img.shields.io/github/stars/simd-everywhere/simde?style=social)](https://github.com/simd-everywhere/simde/stargazers/) | Implementations of SIMD instruction sets for systems which don't natively support them. | |
+| [tsimd](https://github.com/ospray/tsimd) | [![GitHub stars](https://img.shields.io/github/stars/ospray/tsimd?style=social)](https://github.com/ospray/tsimd/stargazers/) | Fundamental C++ SIMD types for Intel CPUs (sse, avx, avx2, avx512). | |
 
 ## Standard/Support Libraries
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [expected-lite](https://github.com/martinmoene/expected-lite) | | expected lite - Expected objects in C++11 and later in a single-file header-only library. | |
-| [gsl-lite](https://github.com/gsl-lite/gsl-lite) | | gsl-lite – A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11, and later. | |
-| [hana](https://github.com/boostorg/hana) | | Your standard library for metaprogramming. | |
-| [optional-lite](https://github.com/martinmoene/optional-lite) | | optional lite - A C++17-like optional, a nullable object for C++98, C++11 and later in a single-file header-only library. | |
-| [span-lite](https://github.com/martinmoene/span-lite) | | span lite - A C++20-like span for C++98, C++11 and later in a single-file header-only library. | |
-| [string-view-lite](https://github.com/martinmoene/string-view-lite) | | string_view lite - A C++17-like string_view for C++98, C++11 and later in a single-file header-only library. | |
-| [variant-lite](https://github.com/martinmoene/variant-lite) | | variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library. | |
+| [expected-lite](https://github.com/martinmoene/expected-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/expected-lite?style=social)](https://github.com/martinmoene/expected-lite/stargazers/) | expected lite - Expected objects in C++11 and later in a single-file header-only library. | |
+| [gsl-lite](https://github.com/gsl-lite/gsl-lite) | [![GitHub stars](https://img.shields.io/github/stars/gsl-lite/gsl-lite?style=social)](https://github.com/gsl-lite/gsl-lite/stargazers/) | gsl-lite – A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++11, and later. | |
+| [hana](https://github.com/boostorg/hana) | [![GitHub stars](https://img.shields.io/github/stars/boostorg/hana?style=social)](https://github.com/boostorg/hana/stargazers/) | Your standard library for metaprogramming. | |
+| [optional-lite](https://github.com/martinmoene/optional-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/optional-lite?style=social)](https://github.com/martinmoene/optional-lite/stargazers/) | optional lite - A C++17-like optional, a nullable object for C++98, C++11 and later in a single-file header-only library. | |
+| [span-lite](https://github.com/martinmoene/span-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/span-lite?style=social)](https://github.com/martinmoene/span-lite/stargazers/) | span lite - A C++20-like span for C++98, C++11 and later in a single-file header-only library. | |
+| [string-view-lite](https://github.com/martinmoene/string-view-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/string-view-lite?style=social)](https://github.com/martinmoene/string-view-lite/stargazers/) | string_view lite - A C++17-like string_view for C++98, C++11 and later in a single-file header-only library. | |
+| [variant-lite](https://github.com/martinmoene/variant-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/variant-lite?style=social)](https://github.com/martinmoene/variant-lite/stargazers/) | variant lite - A C++17-like variant, a type-safe union for C++98, C++11 and later in a single-file header-only library. | |
 
 ## Statistics 
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [histogram](https://github.com/boostorg/histogram) | | Fast multi-dimensional generalized histogram with convenient interface for C++14. | |
-| [kalman](https://github.com/mherb/kalman) | | Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3. | |
-| [stats](https://github.com/kthohr/stats) | | A C++ header-only library of statistical distribution functions. | |
+| [histogram](https://github.com/boostorg/histogram) | [![GitHub stars](https://img.shields.io/github/stars/boostorg/histogram?style=social)](https://github.com/boostorg/histogram/stargazers/) | Fast multi-dimensional generalized histogram with convenient interface for C++14. | |
+| [kalman](https://github.com/mherb/kalman) | [![GitHub stars](https://img.shields.io/github/stars/mherb/kalman?style=social)](https://github.com/mherb/kalman/stargazers/) | Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3. | |
+| [stats](https://github.com/kthohr/stats) | [![GitHub stars](https://img.shields.io/github/stars/kthohr/stats?style=social)](https://github.com/kthohr/stats/stargazers/) | A C++ header-only library of statistical distribution functions. | |
 
 ## Templating Engines
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [inja](https://github.com/pantor/inja) | | A Template Engine for Modern C++. | |
+| [inja](https://github.com/pantor/inja) | [![GitHub stars](https://img.shields.io/github/stars/pantor/inja?style=social)](https://github.com/pantor/inja/stargazers/) | A Template Engine for Modern C++. | |
 
 ## Terminal Utilities
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [indicators](https://github.com/p-ranav/indicators) | | Activity Indicators for Modern C++. | |
-| [rang](https://github.com/agauniyal/rang) | | A Minimal, Header only Modern c++ library for terminal goodies 💄✨. | |
-| [termcolor](https://github.com/ikalnytskyi/termcolor) | | Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force. | |
+| [indicators](https://github.com/p-ranav/indicators) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/indicators?style=social)](https://github.com/p-ranav/indicators/stargazers/) | Activity Indicators for Modern C++. | |
+| [rang](https://github.com/agauniyal/rang) | [![GitHub stars](https://img.shields.io/github/stars/agauniyal/rang?style=social)](https://github.com/agauniyal/rang/stargazers/) | A Minimal, Header only Modern c++ library for terminal goodies 💄✨. | |
+| [termcolor](https://github.com/ikalnytskyi/termcolor) | [![GitHub stars](https://img.shields.io/github/stars/ikalnytskyi/termcolor?style=social)](https://github.com/ikalnytskyi/termcolor/stargazers/) | Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force. | |
 
 ## Testing Frameworks
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp) | | Native ApprovalTests for C++ on Linux, Mac and Windows. | |
-| [Catch2](https://github.com/catchorg/Catch2) | | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later. | |
-| [doctest](https://github.com/onqtam/doctest) | | The fastest feature-rich C++11/14/17/20 single-header testing framework. | |
-| [lest](https://github.com/martinmoene/lest) | | A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant). | |
-| [ut](https://github.com/boost-ext/ut) | | UT: C++20 μ(micro)/Unit Testing Framework. | |
+| [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp) | [![GitHub stars](https://img.shields.io/github/stars/approvals/ApprovalTests.cpp?style=social)](https://github.com/approvals/ApprovalTests.cpp/stargazers/) | Native ApprovalTests for C++ on Linux, Mac and Windows. | |
+| [Catch2](https://github.com/catchorg/Catch2) | [![GitHub stars](https://img.shields.io/github/stars/catchorg/Catch2?style=social)](https://github.com/catchorg/Catch2/stargazers/) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later. | |
+| [doctest](https://github.com/onqtam/doctest) | [![GitHub stars](https://img.shields.io/github/stars/onqtam/doctest?style=social)](https://github.com/onqtam/doctest/stargazers/) | The fastest feature-rich C++11/14/17/20 single-header testing framework. | |
+| [lest](https://github.com/martinmoene/lest) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/lest?style=social)](https://github.com/martinmoene/lest/stargazers/) | A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant). | |
+| [ut](https://github.com/boost-ext/ut) | [![GitHub stars](https://img.shields.io/github/stars/boost-ext/ut?style=social)](https://github.com/boost-ext/ut/stargazers/) | UT: C++20 μ(micro)/Unit Testing Framework. | |
 
 ## Units
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [mpusz/units](https://github.com/mpusz/units) | | A compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation. | |
-| [nholthaus/units](https://github.com/nholthaus/units) | | a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies. | |
-| [SI](https://github.com/bernedom/SI) | | A header only C++ library that provides type safety and user defined literals for physical units. | |
+| [mpusz/units](https://github.com/mpusz/units) | [![GitHub stars](https://img.shields.io/github/stars/mpusz/units?style=social)](https://github.com/mpusz/units/stargazers/) | A compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation. | |
+| [nholthaus/units](https://github.com/nholthaus/units) | [![GitHub stars](https://img.shields.io/github/stars/nholthaus/units?style=social)](https://github.com/nholthaus/units/stargazers/) | a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies. | |
+| [SI](https://github.com/bernedom/SI) | [![GitHub stars](https://img.shields.io/github/stars/bernedom/SI?style=social)](https://github.com/bernedom/SI/stargazers/) | A header only C++ library that provides type safety and user defined literals for physical units. | |
 
 ## Web Frameworks
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [crow](https://github.com/ipkn/crow) | | Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask). | |
+| [crow](https://github.com/ipkn/crow) | [![GitHub stars](https://img.shields.io/github/stars/ipkn/crow?style=social)](https://github.com/ipkn/crow/stargazers/) | Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask). | |

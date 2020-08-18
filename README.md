@@ -8,19 +8,15 @@
 
 ## Argument Parsing
 
-* [Argh!](https://github.com/adishavit/argh): Argh! A minimalist argument handler.
-
-* [argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++.
-
-* [args](https://github.com/Taywee/args): A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API).
-
-* [CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.
-
-* [clipp](https://github.com/muellan/clipp): easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation.
-
-* [flags](https://github.com/sailormoon/flags): ⛳ Simple, extensible, header-only C++17 argument parser released into the public domain.
-
-* [structopt](https://github.com/p-ranav/structopt): Parse command line arguments by defining a struct.
+| Library  | Description  | License |
+|--- |---|--|
+| [Argh!](https://github.com/adishavit/argh)  | Argh! A minimalist argument handler.  | BSD-3-Clause |
+| [argparse](https://github.com/p-ranav/argparse)  | Argument Parser for Modern C++.  | MIT |
+| [args](https://github.com/Taywee/args)  |  A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API) | MIT |
+| [CLI11](https://github.com/CLIUtils/CLI11) | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. | BSD-3-Clause |
+| [clipp](https://github.com/muellan/clipp) | easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation. | MIT |
+| [flags](https://github.com/sailormoon/flags) | ⛳ Simple, extensible, header-only C++17 argument parser released into the public domain. | Unlicense |
+| [structopt](https://github.com/p-ranav/structopt) | Parse command line arguments by defining a struct. | MIT |
 
 ## Audio
 

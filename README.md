@@ -29,7 +29,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [nanobench](https://github.com/martinus/nanobench) | [![GitHub stars](https://img.shields.io/github/stars/martinus/nanobench?style=social)](https://github.com/martinus/nanobench/stargazers/) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [nanobench](https://github.com/martinus/nanobench) | [![GitHub stars](https://img.shields.io/github/stars/martinus/nanobench?style=social)](https://github.com/martinus/nanobench/stargazers/) | Simple, fast, accurate Microbenchmarking functionality for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Compression
 

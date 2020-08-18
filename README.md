@@ -163,7 +163,7 @@
 | [cinatra](https://github.com/qicosmos/cinatra) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Modern (c++17), Cross-platform Http Framework. | |
 | [cpp-httplib](https://github.com/yhirose/cpp-httplib) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | A C++11 Cross platform HTTP/HTTPS library. | |
 | [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Create and validate JSON web tokens. | |
-| [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Cross-platform, efficient, customizable, and robust asynchronous HTTP/WebSocket server C++14 library with the right balance between performance and ease of use. | |
+| [RESTinio](https://github.com/Stiffstream/restinio) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Cross-platform, efficient, customizable, and robust asynchronous HTTP/WebSocket server C++14 library with the right balance between performance and ease of use. | |
 
 ## Language Bindings
 

@@ -127,7 +127,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus?style=social)](https://github.com/Dobiasd/FunctionalPlus/stargazers/) &nbsp; &nbsp; &nbsp; | Functional Programming Library for C++. Write concise and readable C++ code. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) &nbsp; &nbsp; &nbsp; |
+| [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus?style=social)](https://github.com/Dobiasd/FunctionalPlus/stargazers/) &nbsp; &nbsp; &nbsp; | Functional Programming Library for C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
 ## GUI
 

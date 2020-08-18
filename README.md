@@ -10,7 +10,7 @@
 
 | Library  | Stars |  Description | License |
 |--- | ---| ---|--- |
-| [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) | Argh! A minimalist argument handler.  |  |
+| [Argh!](https://github.com/adishavit/argh)  | [![GitHub stars](https://img.shields.io/github/stars/adishavit/argh?style=social)](https://github.com/adishavit/argh/stargazers/) | Argh! A minimalist argument handler.  | BSD 3-Clause |
 | [argparse](https://github.com/p-ranav/argparse) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/argparse?style=social)](https://github.com/p-ranav/argparse/stargazers/) | Argument Parser for Modern C++.  | MIT |
 | [args](https://github.com/Taywee/args) | [![GitHub stars](https://img.shields.io/github/stars/Taywee/args?style=social)](https://github.com/Taywee/args/stargazers/)  |  A simple header-only C++ argument parser library.  | MIT |
 | [CLI11](https://github.com/CLIUtils/CLI11) | [![GitHub stars](https://img.shields.io/github/stars/CLIUtils/CLI11?style=social)](https://github.com/CLIUtils/CLI11/stargazers/) | CLI11 is a command line parser for C++11 and beyond. | BSD 3-Clause |

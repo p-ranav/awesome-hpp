@@ -139,15 +139,15 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cinolib](https://github.com/mlivesu/cinolib) | | A generic programming header only C++ library for processing polygonal and polyhedral meshes. | |
-| [cr](https://github.com/fungos/cr) | | cr.h: A Simple C Hot Reload Header-only Library. | |
-| [earcut.hpp](https://github.com/mapbox/earcut.hpp) | | Fast, header-only polygon triangulation. | |
-| [entt](https://github.com/skypjack/entt) | | Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. | |
-| [glm](https://github.com/g-truc/glm) | | OpenGL Mathematics (GLM). | |
-| [librg](https://github.com/zpl-c/librg) | | 🚀 Making multi-player gamedev simpler since 2017. | |
-| [nanort](https://github.com/lighttransport/nanort) | | NanoRT, single header only modern ray tracing kernel. | |
-| [tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) | | Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies. | |
-| [voxelizer](https://github.com/karimnaaji/voxelizer) | | Header only mesh voxelizer in c99. | |
+| [cinolib](https://github.com/mlivesu/cinolib) | [![GitHub stars](https://img.shields.io/github/stars/mlivesu/cinolib?style=social)](https://github.com/mlivesu/cinolib/stargazers/) | A generic programming header only C++ library for processing polygonal and polyhedral meshes. | |
+| [cr](https://github.com/fungos/cr) | [![GitHub stars](https://img.shields.io/github/stars/fungos/cr?style=social)](https://github.com/fungos/cr/stargazers/) | cr.h: A Simple C Hot Reload Header-only Library. | |
+| [earcut.hpp](https://github.com/mapbox/earcut.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=social)](https://github.com/mapbox/earcut.hpp/stargazers/) | Fast, header-only polygon triangulation. | |
+| [entt](https://github.com/skypjack/entt) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=social)](https://github.com/skypjack/entt/stargazers/) | Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more. | |
+| [glm](https://github.com/g-truc/glm) | [![GitHub stars](https://img.shields.io/github/stars/g-truc/glm?style=social)](https://github.com/g-truc/glm/stargazers/) | OpenGL Mathematics (GLM). | |
+| [librg](https://github.com/zpl-c/librg) | [![GitHub stars](https://img.shields.io/github/stars/zpl-c/librg?style=social)](https://github.com/zpl-c/librg/stargazers/) | 🚀 Making multi-player gamedev simpler since 2017. | |
+| [nanort](https://github.com/lighttransport/nanort) | [![GitHub stars](https://img.shields.io/github/stars/lighttransport/nanort?style=social)](https://github.com/lighttransport/nanort/stargazers/) | NanoRT, single header only modern ray tracing kernel. | |
+| [tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) | [![GitHub stars](https://img.shields.io/github/stars/google-research/tiny-differentiable-simulator?style=social)](https://github.com/google-research/tiny-differentiable-simulator/stargazers/) | Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies. | |
+| [voxelizer](https://github.com/karimnaaji/voxelizer) | [![GitHub stars](https://img.shields.io/github/stars/karimnaaji/voxelizer?style=social)](https://github.com/karimnaaji/voxelizer/stargazers/) | Header only mesh voxelizer in c99. | |
 
 ## GPU
 

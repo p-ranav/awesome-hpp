@@ -9,10 +9,10 @@
 ## Argument Parsing
 
 | Library  | Description  | License |
-|--- |---|--|
+|--- |---|---|
 | [Argh!](https://github.com/adishavit/argh)  | Argh! A minimalist argument handler.  | BSD-3-Clause |
 | [argparse](https://github.com/p-ranav/argparse)  | Argument Parser for Modern C++.  | MIT |
-| [args](https://github.com/Taywee/args)  |  A simple header-only C++ argument parser library. Supposed to be flexible and powerful, and attempts to be compatible with the functionality of the Python standard argparse library (though not necessarily the API) | MIT |
+| [args](https://github.com/Taywee/args)  |  A simple header-only C++ argument parser library.  | MIT |
 | [CLI11](https://github.com/CLIUtils/CLI11) | CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. | BSD-3-Clause |
 | [clipp](https://github.com/muellan/clipp) | easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation. | MIT |
 | [flags](https://github.com/sailormoon/flags) | ⛳ Simple, extensible, header-only C++17 argument parser released into the public domain. | Unlicense |
@@ -21,12 +21,15 @@
 ## Audio
 
 | Library  | Description  | License |
-|--- |---|--|
-| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library | Creative Commons Zero v1.0 Universal |
+|--- |---|---|
+| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library. | Creative Commons Zero v1.0 Universal |
 
 ## Benchmarking
 
-* [nanobench](https://github.com/martinus/nanobench): Simple, fast, accurate single-header microbenchmarking functionality for C++11.
+
+| Library  | Description  | License |
+|--- |---|---|
+| [nanobench](https://github.com/martinus/nanobench) | Simple, fast, accurate single-header microbenchmarking functionality for C++11. | MIT |
 
 ## Compression
 

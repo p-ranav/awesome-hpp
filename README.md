@@ -83,10 +83,10 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) | | A header-only library for C++(0x) that allows automagic pretty-printing of any container. | |
-| [fmt](https://github.com/fmtlib/fmt) | | A modern formatting library. | |
-| [pprint](https://github.com/p-ranav/pprint) | | Pretty Printer for Modern C++. | |
-| [tabulate](https://github.com/p-ranav/tabulate) | | Table Maker for Modern C++. | |
+| [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) | [![GitHub stars](https://img.shields.io/github/stars/louisdx/cxx-prettyprint?style=social)](https://github.com/louisdx/cxx-prettyprint/stargazers/) | Automagic pretty-printing of any container in C++(0x). | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [fmt](https://github.com/fmtlib/fmt) | [![GitHub stars](https://img.shields.io/github/stars/fmtlib/fmt?style=social)](https://github.com/fmtlib/fmt/stargazers/) | A modern formatting library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [pprint](https://github.com/p-ranav/pprint) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/pprint?style=social)](https://github.com/p-ranav/pprint/stargazers/) | Pretty Printer for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tabulate](https://github.com/p-ranav/tabulate) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/tabulate?style=social)](https://github.com/p-ranav/tabulate/stargazers/) | Table Maker for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Data Querying
 

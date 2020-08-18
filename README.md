@@ -20,7 +20,9 @@
 
 ## Audio
 
-* [minimp3](https://github.com/lieff/minimp3): Minimalistic MP3 decoder single header library.
+| Library  | Description  | License |
+|--- |---|--|
+| [minimp3](https://github.com/lieff/minimp3) | Minimalistic MP3 decoder single header library | Creative Commons Zero v1.0 Universal |
 
 ## Benchmarking
 

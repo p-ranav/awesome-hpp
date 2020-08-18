@@ -177,9 +177,9 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [easyloggingpp](https://github.com/amrayn/easyloggingpp) | | Single header C++ logging library. | |
-| [plog](https://github.com/SergiusTheBest/plog) | | Portable, simple and extensible C++ logging library. | |
-| [spdlog](https://github.com/gabime/spdlog) | | Fast C++ logging library. | |
+| [easyloggingpp](https://github.com/amrayn/easyloggingpp) | [![GitHub stars](https://img.shields.io/github/stars/amrayn/easyloggingpp?style=social)](https://github.com/amrayn/easyloggingpp/stargazers/) | Single header C++ logging library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [plog](https://github.com/SergiusTheBest/plog) | [![GitHub stars](https://img.shields.io/github/stars/SergiusTheBest/plog?style=social)](https://github.com/SergiusTheBest/plog/stargazers/) | Portable, simple and extensible C++ logging library. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
+| [spdlog](https://github.com/gabime/spdlog) | [![GitHub stars](https://img.shields.io/github/stars/gabime/spdlog?style=social)](https://github.com/gabime/spdlog/stargazers/) | Fast C++ logging library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Mathematics
 

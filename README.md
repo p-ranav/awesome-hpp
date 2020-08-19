@@ -299,6 +299,12 @@
 | [kalman](https://github.com/mherb/kalman) | [![GitHub stars](https://img.shields.io/github/stars/mherb/kalman?style=social)](https://github.com/mherb/kalman/stargazers/) | Kalman Filtering Library (EKF, UKF) based on Eigen3. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [stats](https://github.com/kthohr/stats) | [![GitHub stars](https://img.shields.io/github/stars/kthohr/stats?style=social)](https://github.com/kthohr/stats/stargazers/) | Statistical distribution functions. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 
+## String Utilities
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [wildcards](https://github.com/zemasoft/wildcards) | [![GitHub stars](https://img.shields.io/github/stars/zemasoft/wildcards?style=social)](https://github.com/zemasoft/wildcards/stargazers/) | String matching using wildcards. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+
 ## Templating Engines
 
 | Library  | Stars |  Description | License  |

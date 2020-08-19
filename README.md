@@ -240,6 +240,12 @@
 | [spectra](https://github.com/yixuan/spectra) | [![GitHub stars](https://img.shields.io/github/stars/yixuan/spectra?style=social)](https://github.com/yixuan/spectra/stargazers/) | A header-only C++ library for large scale eigenvalue problems. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
 | [universal](https://github.com/stillwater-sc/universal) | [![GitHub stars](https://img.shields.io/github/stars/stillwater-sc/universal?style=social)](https://github.com/stillwater-sc/universal/stargazers/) | Universal Number Arithmetic. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Memory Management
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [ugc](https://github.com/bullno1/ugc) | [![GitHub stars](https://img.shields.io/github/stars/bullno1/ugc?style=social)](https://github.com/bullno1/ugc/stargazers/) | Incremental garbage collector. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+
 ## Mocking
 
 | Library  | Stars |  Description | License  |

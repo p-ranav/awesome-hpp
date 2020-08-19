@@ -136,6 +136,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [filesystem](https://github.com/gulrak/filesystem) | [![GitHub stars](https://img.shields.io/github/stars/gulrak/filesystem?style=social)](https://github.com/gulrak/filesystem/stargazers/) | Cross-platform implementation of std::filesystem for C++11/14/17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [llfio](https://github.com/ned14/llfio) | [![GitHub stars](https://img.shields.io/github/stars/ned14/llfio?style=social)](https://github.com/ned14/llfio/stargazers/) | P1031 low-Level file i/o and filesystem library. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [mio](https://github.com/mandreyel/mio) | [![GitHub stars](https://img.shields.io/github/stars/mandreyel/mio?style=social)](https://github.com/mandreyel/mio/stargazers/) | Cross-platform C++11 memory mapped file IO. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tinydir](https://github.com/cxong/tinydir) | [![GitHub stars](https://img.shields.io/github/stars/cxong/tinydir?style=social)](https://github.com/wqking/cxong/tinydir/) &nbsp; &nbsp; &nbsp; | Lightweight, portable C directory and file reader. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 

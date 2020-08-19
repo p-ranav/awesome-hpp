@@ -107,6 +107,12 @@
 | [robin-hood hashing](https://github.com/martinus/robin-hood-hashing) | [![GitHub stars](https://img.shields.io/github/stars/martinus/robin-hood-hashing?style=social)](https://github.com/martinus/robin-hood-hashing/stargazers/) | Fast & memory efficient hashtable based on robin hood hashing. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [robin-map](https://github.com/Tessil/robin-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/robin-map?style=social)](https://github.com/Tessil/robin-map/stargazers/) | Fast hash map and hash set using robin hood hashing. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Debugging
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [backward-cpp](https://github.com/bombela/backward-cpp) | [![GitHub stars](https://img.shields.io/github/stars/bombela/backward-cpp?style=social)](https://github.com/bombela/backward-cpp/stargazers/) | A beautiful stack trace pretty printer for C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
 ## Event Handling Mechanisms, State Machines, and Task Systems
 
 | Library  | Stars |  Description | License  |

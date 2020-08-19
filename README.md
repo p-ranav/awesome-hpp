@@ -215,7 +215,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [ensmallen](https://github.com/mlpack/ensmallen) | [![GitHub stars](https://img.shields.io/github/stars/mlpack/ensmallen?style=social)](https://github.com/mlpack/ensmallen/stargazers/) | A header-only C++ library for numerical optimization. | |
+| [ensmallen](https://github.com/mlpack/ensmallen) | [![GitHub stars](https://img.shields.io/github/stars/mlpack/ensmallen?style=social)](https://github.com/mlpack/ensmallen/stargazers/) | C++ library for numerical optimization. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Parsing Expression Grammars
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="70" src="img/logo.png"/>  
+  <img height="70" src="img/logo.png"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 | [frugally deep](https://github.com/Dobiasd/frugally-deep) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/frugally-deep?style=social)](https://github.com/Dobiasd/frugally-deep/stargazers/) | Use Keras models in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [hnswlib](https://github.com/nmslib/hnswlib) | [![GitHub stars](https://img.shields.io/github/stars/nmslib/hnswlib?style=social)](https://github.com/nmslib/hnswlib/stargazers/) | Fast approximate nearest neighbors. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [MiniDNN](https://github.com/yixuan/MiniDNN) | [![GitHub stars](https://img.shields.io/github/stars/yixuan/MiniDNN?style=social)](https://github.com/yixuan/MiniDNN/stargazers/) | A header-only C++ library for deep neural networks. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
-| [nanoflann](https://github.com/jlblancoc/nanoflann) | [![GitHub stars](https://img.shields.io/github/stars/jlblancoc/nanoflann?style=social)](https://github.com/jlblancoc/nanoflann/stargazers/) | Nearest Neighbor (NN) search with KD-trees. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) | 
+| [nanoflann](https://github.com/jlblancoc/nanoflann) | [![GitHub stars](https://img.shields.io/github/stars/jlblancoc/nanoflann?style=social)](https://github.com/jlblancoc/nanoflann/stargazers/) | Nearest Neighbor (NN) search with KD-trees. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 | [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn) | [![GitHub stars](https://img.shields.io/github/stars/tiny-dnn/tiny-dnn?style=social)](https://github.com/tiny-dnn/tiny-dnn/stargazers/) | Dependency-free deep learning framework in C++14. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Data Formatting and Presentation
@@ -292,7 +292,7 @@
 | [string-view-lite](https://github.com/martinmoene/string-view-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/string-view-lite?style=social)](https://github.com/martinmoene/string-view-lite/stargazers/) | A C++17-like string_view for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [variant-lite](https://github.com/martinmoene/variant-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/variant-lite?style=social)](https://github.com/martinmoene/variant-lite/stargazers/) | A C++17-like variant for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
-## Statistics 
+## Statistics
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |

@@ -207,9 +207,9 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [brynet](https://github.com/IronsDu/brynet) | [![GitHub stars](https://img.shields.io/github/stars/IronsDu/brynet?style=social)](https://github.com/IronsDu/brynet/stargazers/) | A Header-Only cross-platform C++ TCP network library. | |
-| [cppzmq](https://github.com/zeromq/cppzmq) | [![GitHub stars](https://img.shields.io/github/stars/zeromq/cppzmq?style=social)](https://github.com/zeromq/cppzmq/stargazers/) | Header-only C++ binding for libzmq. | |
-| [uvw](https://github.com/skypjack/uvw) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/uvw?style=social)](https://github.com/skypjack/uvw/stargazers/) | Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library. | |
+| [brynet](https://github.com/IronsDu/brynet) | [![GitHub stars](https://img.shields.io/github/stars/IronsDu/brynet?style=social)](https://github.com/IronsDu/brynet/stargazers/) | Cross-platform C++ TCP network library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [cppzmq](https://github.com/zeromq/cppzmq) | [![GitHub stars](https://img.shields.io/github/stars/zeromq/cppzmq?style=social)](https://github.com/zeromq/cppzmq/stargazers/) | Header-only C++ binding for libzmq. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [uvw](https://github.com/skypjack/uvw) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/uvw?style=social)](https://github.com/skypjack/uvw/stargazers/) | libuv wrapper in modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Optimization
 

@@ -245,22 +245,22 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [manif](https://github.com/artivis/manif) | [![GitHub stars](https://img.shields.io/github/stars/artivis/manif?style=social)](https://github.com/artivis/manif/stargazers/) | A small c++11 header-only library for Lie theory. | |
+| [manif](https://github.com/artivis/manif) | [![GitHub stars](https://img.shields.io/github/stars/artivis/manif?style=social)](https://github.com/artivis/manif/stargazers/) | Small library for Lie theory. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Serialization
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cereal](https://github.com/USCiLab/cereal) | [![GitHub stars](https://img.shields.io/github/stars/USCiLab/cereal?style=social)](https://github.com/USCiLab/cereal/stargazers/) | A C++11 library for serialization. | |
-| [fuser](https://github.com/Xeverous/fuser) | [![GitHub stars](https://img.shields.io/github/stars/Xeverous/fuser?style=social)](https://github.com/Xeverous/fuser/stargazers/) | Header-only library for automatic (de)serialization of C++ types to/from JSON. | |
+| [cereal](https://github.com/USCiLab/cereal) | [![GitHub stars](https://img.shields.io/github/stars/USCiLab/cereal?style=social)](https://github.com/USCiLab/cereal/stargazers/) | A C++11 library for serialization. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [fuser](https://github.com/Xeverous/fuser) | [![GitHub stars](https://img.shields.io/github/stars/Xeverous/fuser?style=social)](https://github.com/Xeverous/fuser/stargazers/) | Automatic (de)serialization of C++ types to/from JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## SIMD
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [libsimdpp](https://github.com/p12tic/libsimdpp) | [![GitHub stars](https://img.shields.io/github/stars/p12tic/libsimdpp?style=social)](https://github.com/p12tic/libsimdpp/stargazers/) | Portable header-only C++ low level SIMD library. | |
-| [simde](https://github.com/simd-everywhere/simde) | [![GitHub stars](https://img.shields.io/github/stars/simd-everywhere/simde?style=social)](https://github.com/simd-everywhere/simde/stargazers/) | Implementations of SIMD instruction sets for systems which don't natively support them. | |
-| [tsimd](https://github.com/ospray/tsimd) | [![GitHub stars](https://img.shields.io/github/stars/ospray/tsimd?style=social)](https://github.com/ospray/tsimd/stargazers/) | Fundamental C++ SIMD types for Intel CPUs (sse, avx, avx2, avx512). | |
+| [libsimdpp](https://github.com/p12tic/libsimdpp) | [![GitHub stars](https://img.shields.io/github/stars/p12tic/libsimdpp?style=social)](https://github.com/p12tic/libsimdpp/stargazers/) | Low-level SIMD library. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [simde](https://github.com/simd-everywhere/simde) | [![GitHub stars](https://img.shields.io/github/stars/simd-everywhere/simde?style=social)](https://github.com/simd-everywhere/simde/stargazers/) | Implementations of SIMD instruction sets. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [tsimd](https://github.com/ospray/tsimd) | [![GitHub stars](https://img.shields.io/github/stars/ospray/tsimd?style=social)](https://github.com/ospray/tsimd/stargazers/) | Fundamental C++ SIMD types for Intel CPUs. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Standard/Support Libraries
 

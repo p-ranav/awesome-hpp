@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A collection of awesome header-only C++ libraries</b>
+  <b>A curated list of awesome header-only C++ libraries</b>
 </p>
 
 ## Argument Parsers

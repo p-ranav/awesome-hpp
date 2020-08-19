@@ -278,23 +278,23 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [histogram](https://github.com/boostorg/histogram) | [![GitHub stars](https://img.shields.io/github/stars/boostorg/histogram?style=social)](https://github.com/boostorg/histogram/stargazers/) | Fast multi-dimensional generalized histogram with convenient interface for C++14. | |
-| [kalman](https://github.com/mherb/kalman) | [![GitHub stars](https://img.shields.io/github/stars/mherb/kalman?style=social)](https://github.com/mherb/kalman/stargazers/) | Header-only C++11 Kalman Filtering Library (EKF, UKF) based on Eigen3. | |
-| [stats](https://github.com/kthohr/stats) | [![GitHub stars](https://img.shields.io/github/stars/kthohr/stats?style=social)](https://github.com/kthohr/stats/stargazers/) | A C++ header-only library of statistical distribution functions. | |
+| [histogram](https://github.com/boostorg/histogram) | [![GitHub stars](https://img.shields.io/github/stars/boostorg/histogram?style=social)](https://github.com/boostorg/histogram/stargazers/) | Multi-dimensional generalized histograms. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [kalman](https://github.com/mherb/kalman) | [![GitHub stars](https://img.shields.io/github/stars/mherb/kalman?style=social)](https://github.com/mherb/kalman/stargazers/) | Kalman Filtering Library (EKF, UKF) based on Eigen3. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [stats](https://github.com/kthohr/stats) | [![GitHub stars](https://img.shields.io/github/stars/kthohr/stats?style=social)](https://github.com/kthohr/stats/stargazers/) | Statistical distribution functions. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 
 ## Templating Engines
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [inja](https://github.com/pantor/inja) | [![GitHub stars](https://img.shields.io/github/stars/pantor/inja?style=social)](https://github.com/pantor/inja/stargazers/) | A Template Engine for Modern C++. | |
+| [inja](https://github.com/pantor/inja) | [![GitHub stars](https://img.shields.io/github/stars/pantor/inja?style=social)](https://github.com/pantor/inja/stargazers/) | A Template Engine for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Terminal Utilities
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [indicators](https://github.com/p-ranav/indicators) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/indicators?style=social)](https://github.com/p-ranav/indicators/stargazers/) | Activity Indicators for Modern C++. | |
-| [rang](https://github.com/agauniyal/rang) | [![GitHub stars](https://img.shields.io/github/stars/agauniyal/rang?style=social)](https://github.com/agauniyal/rang/stargazers/) | A Minimal, Header only Modern c++ library for terminal goodies 💄✨. | |
-| [termcolor](https://github.com/ikalnytskyi/termcolor) | [![GitHub stars](https://img.shields.io/github/stars/ikalnytskyi/termcolor?style=social)](https://github.com/ikalnytskyi/termcolor/stargazers/) | Termcolor is a header-only C++ library for printing colored messages to the terminal. Written just for fun with a help of the Force. | |
+| [indicators](https://github.com/p-ranav/indicators) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/indicators?style=social)](https://github.com/p-ranav/indicators/stargazers/) | Activity Indicators for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [rang](https://github.com/agauniyal/rang) | [![GitHub stars](https://img.shields.io/github/stars/agauniyal/rang?style=social)](https://github.com/agauniyal/rang/stargazers/) | A Minimal library for terminal goodies 💄✨. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
+| [termcolor](https://github.com/ikalnytskyi/termcolor) | [![GitHub stars](https://img.shields.io/github/stars/ikalnytskyi/termcolor?style=social)](https://github.com/ikalnytskyi/termcolor/stargazers/) | Print colored messages to the terminal. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Testing Frameworks
 

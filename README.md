@@ -239,7 +239,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) | [![GitHub stars](https://img.shields.io/github/stars/hanickadot/compile-time-regular-expressions?style=social)](https://github.com/hanickadot/compile-time-regular-expressions/stargazers/) | A Compile time PCRE (almost) compatible regular expression matcher. | |
+| [compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions) | [![GitHub stars](https://img.shields.io/github/stars/hanickadot/compile-time-regular-expressions?style=social)](https://github.com/hanickadot/compile-time-regular-expressions/stargazers/) | A Compile time regular expression matcher. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 
 ## Robitics
 

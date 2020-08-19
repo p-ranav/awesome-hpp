@@ -177,6 +177,7 @@
 |--- | ---| ---|--- |
 | [GuiLite](https://github.com/idea4good/GuiLite) | [![GitHub stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=social)](https://github.com/idea4good/GuiLite/stargazers/) | The smallest header-only GUI library(5 KLOC) for all platforms. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers/) | Immediate mode cross-platform GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
+| [WinLamb](https://github.com/rodrigocfd/winlamb) | [![GitHub stars](https://img.shields.io/github/stars/rodrigocfd/winlamb?style=social)](https://github.com/rodrigocfd/winlamb/stargazers/) | C++11 native Win32 GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## HTTP and the Web
 

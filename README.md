@@ -300,22 +300,22 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp) | [![GitHub stars](https://img.shields.io/github/stars/approvals/ApprovalTests.cpp?style=social)](https://github.com/approvals/ApprovalTests.cpp/stargazers/) | Native ApprovalTests for C++ on Linux, Mac and Windows. | |
-| [Catch2](https://github.com/catchorg/Catch2) | [![GitHub stars](https://img.shields.io/github/stars/catchorg/Catch2?style=social)](https://github.com/catchorg/Catch2/stargazers/) | A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later. | |
-| [doctest](https://github.com/onqtam/doctest) | [![GitHub stars](https://img.shields.io/github/stars/onqtam/doctest?style=social)](https://github.com/onqtam/doctest/stargazers/) | The fastest feature-rich C++11/14/17/20 single-header testing framework. | |
-| [lest](https://github.com/martinmoene/lest) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/lest?style=social)](https://github.com/martinmoene/lest/stargazers/) | A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD (includes C++98 variant). | |
-| [ut](https://github.com/boost-ext/ut) | [![GitHub stars](https://img.shields.io/github/stars/boost-ext/ut?style=social)](https://github.com/boost-ext/ut/stargazers/) | UT: C++20 μ(micro)/Unit Testing Framework. | |
+| [ApprovalTests.cpp](https://github.com/approvals/ApprovalTests.cpp) | [![GitHub stars](https://img.shields.io/github/stars/approvals/ApprovalTests.cpp?style=social)](https://github.com/approvals/ApprovalTests.cpp/stargazers/) | Native ApprovalTests for C++. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [Catch2](https://github.com/catchorg/Catch2) | [![GitHub stars](https://img.shields.io/github/stars/catchorg/Catch2?style=social)](https://github.com/catchorg/Catch2/stargazers/) | Test framework for unit-tests, TDD and BDD. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [doctest](https://github.com/onqtam/doctest) | [![GitHub stars](https://img.shields.io/github/stars/onqtam/doctest?style=social)](https://github.com/onqtam/doctest/stargazers/) | The fastest feature-rich C++11/14/17/20 testing framework. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [lest](https://github.com/martinmoene/lest) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/lest?style=social)](https://github.com/martinmoene/lest/stargazers/) | Tiny framework for unit-tests, TDD and BDD. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [ut](https://github.com/boost-ext/ut) | [![GitHub stars](https://img.shields.io/github/stars/boost-ext/ut?style=social)](https://github.com/boost-ext/ut/stargazers/) | UT: C++20 μ(micro)/Unit Testing Framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
 ## Units
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [mpusz/units](https://github.com/mpusz/units) | [![GitHub stars](https://img.shields.io/github/stars/mpusz/units?style=social)](https://github.com/mpusz/units/stargazers/) | A compile-time enabled Modern C++ library that provides compile-time dimensional analysis and unit/quantity manipulation. | |
-| [nholthaus/units](https://github.com/nholthaus/units) | [![GitHub stars](https://img.shields.io/github/stars/nholthaus/units?style=social)](https://github.com/nholthaus/units/stargazers/) | a compile-time, header-only, dimensional analysis and unit conversion library built on c++14 with no dependencies. | |
-| [SI](https://github.com/bernedom/SI) | [![GitHub stars](https://img.shields.io/github/stars/bernedom/SI?style=social)](https://github.com/bernedom/SI/stargazers/) | A header only C++ library that provides type safety and user defined literals for physical units. | |
+| [mpusz/units](https://github.com/mpusz/units) | [![GitHub stars](https://img.shields.io/github/stars/mpusz/units?style=social)](https://github.com/mpusz/units/stargazers/) | Compile-time dimensional analysis and unit/quantity manipulation. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [nholthaus/units](https://github.com/nholthaus/units) | [![GitHub stars](https://img.shields.io/github/stars/nholthaus/units?style=social)](https://github.com/nholthaus/units/stargazers/) | Dimensional analysis and unit conversion library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [SI](https://github.com/bernedom/SI) | [![GitHub stars](https://img.shields.io/github/stars/bernedom/SI?style=social)](https://github.com/bernedom/SI/stargazers/) | Type safety and user defined literals for physical units. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Web Frameworks
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [crow](https://github.com/ipkn/crow) | [![GitHub stars](https://img.shields.io/github/stars/ipkn/crow?style=social)](https://github.com/ipkn/crow/stargazers/) | Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask). | |
+| [crow](https://github.com/ipkn/crow) | [![GitHub stars](https://img.shields.io/github/stars/ipkn/crow?style=social)](https://github.com/ipkn/crow/stargazers/) | Micro web framework inspired by Python Flask. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |

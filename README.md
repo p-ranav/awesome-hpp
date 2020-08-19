@@ -200,8 +200,8 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [FakeIt](https://github.com/eranpeer/FakeIt) | [![GitHub stars](https://img.shields.io/github/stars/eranpeer/FakeIt?style=social)](https://github.com/eranpeer/FakeIt/stargazers/) | C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking. | |
-| [trompeloeil](https://github.com/rollbear/trompeloeil) | [![GitHub stars](https://img.shields.io/github/stars/rollbear/trompeloeil?style=social)](https://github.com/rollbear/trompeloeil/stargazers/) | Header only C++14 mocking framework. | |
+| [FakeIt](https://github.com/eranpeer/FakeIt) | [![GitHub stars](https://img.shields.io/github/stars/eranpeer/FakeIt?style=social)](https://github.com/eranpeer/FakeIt/stargazers/) | C++ mocking made easy. | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [trompeloeil](https://github.com/rollbear/trompeloeil) | [![GitHub stars](https://img.shields.io/github/stars/rollbear/trompeloeil?style=social)](https://github.com/rollbear/trompeloeil/stargazers/) | C++14 mocking framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
 ## Networking
 

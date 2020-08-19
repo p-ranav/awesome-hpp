@@ -38,6 +38,12 @@
 | [Gzip](https://github.com/mapbox/gzip-hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/gzip-hpp?style=social)](https://github.com/mapbox/gzip-hpp/stargazers/) | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 | [zstr](https://github.com/mateidavid/zstr) | [![GitHub stars](https://img.shields.io/github/stars/mateidavid/zstr?style=social)](https://github.com/mateidavid/zstr/stargazers/) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Concurrency
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [mvThreadPool](https://github.com/hoffstadt/mvThreadPool) | [![GitHub stars](https://img.shields.io/github/stars/hoffstadt/mvThreadPool?style=social)](https://github.com/hoffstadt/mvThreadPool/stargazers/) | Simple header-only C++ thread pool library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
 ## Cryptography and Security
 
 | Library  | Stars |  Description | License  |
@@ -149,7 +155,6 @@
 | [arcball_camera](https://github.com/nlguillemot/arcball_camera) | [![GitHub stars](https://img.shields.io/github/stars/nlguillemot/arcball_camera?style=social)](https://github.com/nlguillemot/arcball_camera/stargazers/) | Immediate-mode camera for your graphics demos. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [cinolib](https://github.com/mlivesu/cinolib) | [![GitHub stars](https://img.shields.io/github/stars/mlivesu/cinolib?style=social)](https://github.com/mlivesu/cinolib/stargazers/) | Process polygonal and polyhedral meshes. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [cr](https://github.com/fungos/cr) | [![GitHub stars](https://img.shields.io/github/stars/fungos/cr?style=social)](https://github.com/fungos/cr/stargazers/) | A Simple C Hot Reload Header-only Library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [cute_headers](https://github.com/RandyGaul/cute_headers) | [![GitHub stars](https://img.shields.io/github/stars/RandyGaul/cute_headers?style=social)](https://github.com/RandyGaul/cute_headers/stargazers/) | Cross-platform libraries primarily used for games. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 | [earcut.hpp](https://github.com/mapbox/earcut.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/earcut.hpp?style=social)](https://github.com/mapbox/earcut.hpp/stargazers/) | Fast Polygon triangulation. | [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) |
 | [entt](https://github.com/skypjack/entt) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/entt?style=social)](https://github.com/skypjack/entt/stargazers/) | Entity component system (ECS) and much more. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [glm](https://github.com/g-truc/glm) | [![GitHub stars](https://img.shields.io/github/stars/g-truc/glm?style=social)](https://github.com/g-truc/glm/stargazers/) | OpenGL Mathematics (GLM). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
@@ -174,12 +179,6 @@
 | [cpp-httplib](https://github.com/yhirose/cpp-httplib) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | A C++11 Cross platform HTTP/HTTPS library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Create and validate JSON web tokens. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Asynchronous HTTP/WebSocket server C++14 library | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-
-## Image Processing
-
-| Library  | Stars |  Description | License  |
-|--- | ---| ---|--- |
-| [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Language Bindings
 
@@ -286,7 +285,6 @@
 | [gsl-lite](https://github.com/gsl-lite/gsl-lite) | [![GitHub stars](https://img.shields.io/github/stars/gsl-lite/gsl-lite?style=social)](https://github.com/gsl-lite/gsl-lite/stargazers/) | ISO C++ Guidelines Support Library (GSL). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [hana](https://github.com/boostorg/hana) | [![GitHub stars](https://img.shields.io/github/stars/boostorg/hana?style=social)](https://github.com/boostorg/hana/stargazers/) | Your standard library for metaprogramming. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [optional-lite](https://github.com/martinmoene/optional-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/optional-lite?style=social)](https://github.com/martinmoene/optional-lite/stargazers/) | A C++17-like optional for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
-| [Sokol](https://github.com/floooh/sokol) | [![GitHub stars](https://img.shields.io/github/stars/floooh/sokol?style=social)](https://github.com/floooh/sokol/stargazers/) | Cross-platform libraries for C and C++. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 | [span-lite](https://github.com/martinmoene/span-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/span-lite?style=social)](https://github.com/martinmoene/span-lite/stargazers/) | A C++20-like span for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [stb](https://github.com/nothings/stb) | [![GitHub stars](https://img.shields.io/github/stars/nothings/stb?style=social)](https://github.com/nothings/stb/stargazers/) | Single-file public domain libraries. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [string-view-lite](https://github.com/martinmoene/string-view-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/string-view-lite?style=social)](https://github.com/martinmoene/string-view-lite/stargazers/) | A C++17-like string_view for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |

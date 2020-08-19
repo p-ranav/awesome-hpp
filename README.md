@@ -143,13 +143,6 @@
 |--- | ---| ---|--- |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus?style=social)](https://github.com/Dobiasd/FunctionalPlus/stargazers/) | Functional Programming Library for C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
-## GUI
-
-| Library  | Stars |  Description | License  |
-|--- | ---| ---|--- |
-| [GuiLite](https://github.com/idea4good/GuiLite) | [![GitHub stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=social)](https://github.com/idea4good/GuiLite/stargazers/) | The smallest header-only GUI library(5 KLOC) for all platforms. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
-| [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers/) | Immediate mode cross-platform GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
-
 ## Geometry, Graphics Processing, and Game Development
 
 | Library  | Stars |  Description | License  |
@@ -175,6 +168,13 @@
 | [moderngpu](https://github.com/moderngpu/moderngpu) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Patterns and behaviors for GPU computing. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [vuda](https://github.com/jgbit/vuda) | [![GitHub stars](https://img.shields.io/github/stars/jgbit/vuda?style=social)](https://github.com/jgbit/vuda/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vulkan-based library that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## GUI
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [GuiLite](https://github.com/idea4good/GuiLite) | [![GitHub stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=social)](https://github.com/idea4good/GuiLite/stargazers/) | The smallest header-only GUI library(5 KLOC) for all platforms. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers/) | Immediate mode cross-platform GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
+
 ## HTTP and the Web
 
 | Library  | Stars |  Description | License  |
@@ -183,6 +183,12 @@
 | [cpp-httplib](https://github.com/yhirose/cpp-httplib) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | A C++11 Cross platform HTTP/HTTPS library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Create and validate JSON web tokens. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Asynchronous HTTP/WebSocket server C++14 library | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+
+## Image Processing
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Language Bindings
 

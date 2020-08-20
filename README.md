@@ -396,6 +396,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [hsm](https://github.com/erikzenker/hsm) | [![GitHub stars](https://img.shields.io/github/stars/erikzenker/hsm?style=social)](https://github.com/erikzenker/hsm/stargazers/) | Finite state machine library based on the boost hana. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Statistics

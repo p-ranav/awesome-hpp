@@ -202,10 +202,10 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [cinatra](https://github.com/qicosmos/cinatra) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Modern (c++17), Cross-platform Http Framework. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [cpp-httplib](https://github.com/yhirose/cpp-httplib) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | A C++11 Cross platform HTTP/HTTPS library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Create and validate JSON web tokens. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
-| [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/moderngpu/moderngpu?style=social)](https://github.com/moderngpu/moderngpu/stargazers/) | Asynchronous HTTP/WebSocket server C++14 library | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+| [cinatra](https://github.com/qicosmos/cinatra) | [![GitHub stars](https://img.shields.io/github/stars/qicosmos/cinatra?style=social)](https://github.com/qicosmos/cinatra/stargazers/) | Modern (c++17), Cross-platform Http Framework. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [cpp-httplib](https://github.com/yhirose/cpp-httplib) | [![GitHub stars](https://img.shields.io/github/stars/yhirose/cpp-httplib?style=social)](https://github.com/yhirose/cpp-httplib/stargazers/) | A C++11 Cross platform HTTP/HTTPS library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/Thalhammer/jwt-cpp?style=social)](https://github.com/Thalhammer/jwt-cpp/stargazers/) | Create and validate JSON web tokens. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/Stiffstream/restinio?style=social)](https://github.com/Stiffstream/restinio/stargazers/) | Asynchronous HTTP/WebSocket server C++14 library | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## Image Processing
 

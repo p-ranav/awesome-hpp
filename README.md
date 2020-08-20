@@ -6,6 +6,52 @@
   <b>A curated list of awesome header-only C++ libraries</b>
 </p>
 
+## Table of Contents
+
+- [Argument Parsers](#argument-parsers)
+- [Audio](#audio)
+- [Benchmarking](#benchmarking)
+- [Compression](#compression)
+- [Concurrency](#concurrency)
+- [Cryptography and Security](#cryptography-and-security)
+- [Databases](#databases)
+- [Data Formats](#data-formats)
+- [Data Mining, Machine Learning, and Deep Learning](#data-mining-machine-learning-and-deep-learning)
+- [Data Formatting and Presentation](#data-formatting-and-presentation)
+- [Data Querying](#data-querying)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
+- [Debugging](#debugging)
+- [Event Handling Mechanisms, State Machines, and Task Systems](#event-handling-mechanisms-state-machines-and-task-systems)
+- [File System](#file-system)
+- [Functional Programming](#functional-programming)
+- [Geometry, Graphics Processing, and Game Development](#geometry-graphics-processing-and-game-development)
+- [GPU](#gpu)
+- [GUI](#gui)
+- [HTTP and the Web](#http-and-the-web)
+- [Image Processing](#image-processing)
+- [Language Bindings](#language-bindings)
+- [Logging](#logging)
+- [Mathematics](#mathematics)
+- [Memory Management](#memory-management)
+- [Mocking](#mocking)
+- [Networking](#networking)
+- [Optimization](#optimization)
+- [Parsing Expression Grammars](#parsing-expression-grammars)
+- [Portability Definitions](#portability-definitions)
+- [Reflection](#reflection)
+- [Regular Expression](#regular-expression)
+- [Robotics](#robotics)
+- [Serialization](#serialization)
+- [SIMD](#simd)
+- [Standard/Support Libraries](#standardsupport-libraries)
+- [Statistics](#statistics)
+- [String Utilities](#string-utilities)
+- [Templating Engines](#templating-engines)
+- [Terminal Utilities](#terminal-utilities)
+- [Testing Frameworks](#testing-frameworks)
+- [Units](#units)
+- [Web Frameworks](#web-frameworks)
+
 ## Argument Parsers
 
 | Library  | Stars |  Description | License |

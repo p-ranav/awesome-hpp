@@ -21,7 +21,7 @@
 - [Data Querying](#data-querying)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Debugging](#debugging)
-- [Event Handling Mechanisms, State Machines, and Task Systems](#event-handling-mechanisms-state-machines-and-task-systems)
+- [Event Handling Mechanisms](#event-handling-mechanisms)
 - [File System](#file-system)
 - [Functional Programming](#functional-programming)
 - [Geometry, Graphics Processing, and Game Development](#geometry-graphics-processing-and-game-development)
@@ -44,6 +44,7 @@
 - [Serialization](#serialization)
 - [SIMD](#simd)
 - [Standard/Support Libraries](#standardsupport-libraries)
+- [State Machine](#state-machine)
 - [Statistics](#statistics)
 - [String Utilities](#string-utilities)
 - [Templating Engines](#templating-engines)
@@ -184,13 +185,12 @@
 |--- | ---| ---|--- |
 | [backward-cpp](https://github.com/bombela/backward-cpp) | [![GitHub stars](https://img.shields.io/github/stars/bombela/backward-cpp?style=social)](https://github.com/bombela/backward-cpp/stargazers/) | A beautiful stack trace pretty printer for C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
-## Event Handling Mechanisms, State Machines, and Task Systems
+## Event Handling Mechanisms
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [eventbus](https://github.com/DeveloperPaul123/eventbus) | [![GitHub stars](https://img.shields.io/github/stars/developerpaul123/eventbus?style=social)](https://github.com/developerpaul123/eventbus/stargazers/) | Mediator pattern event bus for C++. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [eventpp](https://github.com/wqking/eventpp) | [![GitHub stars](https://img.shields.io/github/stars/wqking/eventpp?style=social)](https://github.com/wqking/eventpp/stargazers/) | Event Dispatcher and callback list for C++. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
-| [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## File System
 
@@ -391,6 +391,12 @@
 | [span-lite](https://github.com/martinmoene/span-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/span-lite?style=social)](https://github.com/martinmoene/span-lite/stargazers/) | A C++20-like span for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [string-view-lite](https://github.com/martinmoene/string-view-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/string-view-lite?style=social)](https://github.com/martinmoene/string-view-lite/stargazers/) | A C++17-like string_view for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [variant-lite](https://github.com/martinmoene/variant-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/variant-lite?style=social)](https://github.com/martinmoene/variant-lite/stargazers/) | A C++17-like variant for C++98/11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+
+## State Machine
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Statistics
 

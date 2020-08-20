@@ -160,6 +160,8 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus?style=social)](https://github.com/Dobiasd/FunctionalPlus/stargazers/) | Functional Programming Library for C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [schmutz](https://github.com/arximboldi/schmutz) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Easy Guile Scheme C++ bindings. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [zug](https://github.com/arximboldi/zug) | [![GitHub stars](https://img.shields.io/github/stars/arximboldi/zug?style=social)](https://github.com/arximboldi/zug/stargazers/) | Transducers (from Clojure) in C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
 ## Geometry, Graphics Processing, and Game Development
 
@@ -220,7 +222,6 @@
 |--- | ---| ---|--- |
 | [jni.hpp](https://github.com/mapbox/jni.hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/jni.hpp?style=social)](https://github.com/mapbox/jni.hpp/stargazers/) | A modern, type-safe, C++14 wrapper for JNI. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [pybind11](https://github.com/pybind/pybind11) | [![GitHub stars](https://img.shields.io/github/stars/pybind/pybind11?style=social)](https://github.com/pybind/pybind11/stargazers/) | Seamless operability between C++11 and Python. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
-| [schmutz](https://github.com/arximboldi/schmutz) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Easy Guile Scheme C++ bindings. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [Selene](https://github.com/jeremyong/Selene) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Simple C++11 friendly bindings to Lua. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 
 ## Logging

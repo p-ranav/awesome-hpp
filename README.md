@@ -160,6 +160,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [FunctionalPlus](https://github.com/Dobiasd/FunctionalPlus) | [![GitHub stars](https://img.shields.io/github/stars/Dobiasd/FunctionalPlus?style=social)](https://github.com/Dobiasd/FunctionalPlus/stargazers/) | Functional Programming Library for C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [immer](https://github.com/arximboldi/immer) | [![GitHub stars](https://img.shields.io/github/stars/arximboldi/immer?style=social)](https://github.com/arximboldi/immer/stargazers/) | Persistent functional data structures in C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [schmutz](https://github.com/arximboldi/schmutz) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Easy Guile Scheme C++ bindings. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [zug](https://github.com/arximboldi/zug) | [![GitHub stars](https://img.shields.io/github/stars/arximboldi/zug?style=social)](https://github.com/arximboldi/zug/stargazers/) | Transducers (from Clojure) in C++. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 

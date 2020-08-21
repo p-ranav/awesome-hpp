@@ -380,6 +380,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [expected](https://github.com/TartanLlama/expected) | [![GitHub stars](https://img.shields.io/github/stars/TartanLlama/expected?style=social)](https://github.com/TartanLlama/expected/stargazers/) | C++11/14/17 std::expected. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [expected-lite](https://github.com/martinmoene/expected-lite) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/expected-lite?style=social)](https://github.com/martinmoene/expected-lite/stargazers/) | Expected objects in C++11 and later. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [gsl](https://github.com/microsoft/GSL) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/GSL?style=social)](https://github.com/microsoft/GSL/stargazers/) | ISO C++ Guidelines Support Library (GSL) by Microsoft. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [gsl-lite](https://github.com/gsl-lite/gsl-lite) | [![GitHub stars](https://img.shields.io/github/stars/gsl-lite/gsl-lite?style=social)](https://github.com/gsl-lite/gsl-lite/stargazers/) | ISO C++ Guidelines Support Library (GSL). | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

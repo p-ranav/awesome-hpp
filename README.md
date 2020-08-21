@@ -107,7 +107,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [OTL](http://otl.sourceforge.net/) | | Oracle, ODBC and DB2-CLI Template Library. | |
+| [OTL](http://otl.sourceforge.net/) | | Oracle, ODBC and DB2-CLI Template Library. | OpenBSD |
 
 ## Data Formats
 
@@ -336,7 +336,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [hedley](https://github.com/nemequ/hedley) | [![GitHub stars](https://img.shields.io/github/stars/nemequ/hedley?style=social)](https://github.com/nemequ/hedley/stargazers/) | Move #ifdefs out of your code. | |
+| [hedley](https://github.com/nemequ/hedley) | [![GitHub stars](https://img.shields.io/github/stars/nemequ/hedley?style=social)](https://github.com/nemequ/hedley/stargazers/) | Move #ifdefs out of your code. | [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Reflection
 

@@ -85,6 +85,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [Gzip](https://github.com/mapbox/gzip-hpp) | [![GitHub stars](https://img.shields.io/github/stars/mapbox/gzip-hpp?style=social)](https://github.com/mapbox/gzip-hpp/stargazers/) | Gzip header-only C++ library. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
+| [interpolative_coding](https://github.com/jermp/interpolative_coding) | [![GitHub stars](https://img.shields.io/github/stars/jermp/interpolative_coding?style=social)](https://github.com/jermp/interpolative_coding/stargazers/) | Binary Interpolative Coding algorithm. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [zstr](https://github.com/mateidavid/zstr) | [![GitHub stars](https://img.shields.io/github/stars/mateidavid/zstr?style=social)](https://github.com/mateidavid/zstr/stargazers/) | A C++ header-only ZLib wrapper. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Concurrency

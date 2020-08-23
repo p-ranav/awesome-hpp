@@ -166,6 +166,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [BitMagic](https://github.com/tlk00/BitMagic) | [![GitHub stars](https://img.shields.io/github/stars/tlk00/BitMagic?style=social)](https://github.com/tlk00/BitMagic/stargazers) | Compressed bit-vectors, logical operations, memory compact containers. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [chobo-shl](https://github.com/Chobolabs/chobo-shl) | [![GitHub stars](https://img.shields.io/github/stars/Chobolabs/chobo-shl?style=social)](https://github.com/cameron314/Chobolabs/chobo-shl/) | A collection of several stl-like libraries for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [concurrent queue](https://github.com/cameron314/concurrentqueue/) | [![GitHub stars](https://img.shields.io/github/stars/cameron314/concurrentqueue?style=social)](https://github.com/cameron314/concurrentqueue/stargazers/) | Fast multi-producer, multi-consumer lock-free concurrent queue. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [dynamic bitset](https://github.com/pinam45/dynamic_bitset) | [![GitHub stars](https://img.shields.io/github/stars/pinam45/dynamic_bitset?style=social)](https://github.com/pinam45/dynamic_bitset/stargazers/) | The C++17 header-only dynamic bitset. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
@@ -178,6 +179,7 @@
 | [robin-hood hashing](https://github.com/martinus/robin-hood-hashing) | [![GitHub stars](https://img.shields.io/github/stars/martinus/robin-hood-hashing?style=social)](https://github.com/martinus/robin-hood-hashing/stargazers/) | Fast & memory efficient hashtable based on robin hood hashing. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [robin-map](https://github.com/Tessil/robin-map) | [![GitHub stars](https://img.shields.io/github/stars/Tessil/robin-map?style=social)](https://github.com/Tessil/robin-map/stargazers/) | Fast hash map and hash set using robin hood hashing. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 |[tries](https://github.com/gutjuri/tries) | [![GitHub stars](https://img.shields.io/github/stars/gutjuri/tries?style=social)](https://github.com/gutjuri/tries/stargazers/) | Fast and highly customisable C++20 trie implementation. | [![License: GPL-2.0](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)](https://opensource.org/licenses/GPL-2.0)
+
 
 ## Debugging
 

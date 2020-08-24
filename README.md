@@ -202,6 +202,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [simplebinstream](https://github.com/shaovoon/simplebinstream) | [![GitHub stars](https://img.shields.io/github/stars/shaovoon/simplebinstream?style=social)](https://github.com/shaovoon/simplebinstream/stargazers/) | C++ Simplistic Binary Stream. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [filesystem](https://github.com/gulrak/filesystem) | [![GitHub stars](https://img.shields.io/github/stars/gulrak/filesystem?style=social)](https://github.com/gulrak/filesystem/stargazers/) | Cross-platform implementation of std::filesystem for C++11/14/17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [glob](https://github.com/p-ranav/glob) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/glob?style=social)](https://github.com/p-ranav/glob/stargazers/) | Glob for C++17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [llfio](https://github.com/ned14/llfio) | [![GitHub stars](https://img.shields.io/github/stars/ned14/llfio?style=social)](https://github.com/ned14/llfio/stargazers/) | P1031 low-Level file i/o and filesystem library. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |

@@ -155,6 +155,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [asap](https://github.com/mobius3/asap) | [![GitHub stars](https://img.shields.io/github/stars/mobius3/asap?style=social)](https://github.com/mobius3/asap/stargazers/) | Creating, displaying, iterating and manipulating dates. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [cxx prettyprint](https://github.com/louisdx/cxx-prettyprint) | [![GitHub stars](https://img.shields.io/github/stars/louisdx/cxx-prettyprint?style=social)](https://github.com/louisdx/cxx-prettyprint/stargazers/) | Pretty-printing of any container in C++(0x). | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [fmt](https://github.com/fmtlib/fmt) | [![GitHub stars](https://img.shields.io/github/stars/fmtlib/fmt?style=social)](https://github.com/fmtlib/fmt/stargazers/) | A modern formatting library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [pprint](https://github.com/p-ranav/pprint) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/pprint?style=social)](https://github.com/p-ranav/pprint/stargazers/) | Pretty Printer for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

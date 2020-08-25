@@ -329,6 +329,7 @@
 | [asio](https://github.com/chriskohlhoff/asio) | [![GitHub stars](https://img.shields.io/github/stars/chriskohlhoff/asio?style=social)](https://github.com/chriskohlhoff/asio/stargazers/) | Asio C++ Library. | |
 | [brynet](https://github.com/IronsDu/brynet) | [![GitHub stars](https://img.shields.io/github/stars/IronsDu/brynet?style=social)](https://github.com/IronsDu/brynet/stargazers/) | Cross-platform C++ TCP network library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [cppzmq](https://github.com/zeromq/cppzmq) | [![GitHub stars](https://img.shields.io/github/stars/zeromq/cppzmq?style=social)](https://github.com/zeromq/cppzmq/stargazers/) | Header-only C++ binding for libzmq. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [nygma](https://github.com/stackless-goto/nygma) | [![GitHub stars](https://img.shields.io/github/stars/stackless-goto/nygma?style=social)](https://github.com/stackless-goto/nygma/stargazers/) | Network packet processing and indexing. | [![License: BlueOak](https://img.shields.io/badge/License-BlueOak-blue.svg)](https://spdx.org/licenses/BlueOak-1.0.0.html) |
 | [uvw](https://github.com/skypjack/uvw) | [![GitHub stars](https://img.shields.io/github/stars/skypjack/uvw?style=social)](https://github.com/skypjack/uvw/stargazers/) | libuv wrapper in modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Optimization

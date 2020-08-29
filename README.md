@@ -11,6 +11,7 @@
 - [Argument Parsers](#argument-parsers)
 - [Audio](#audio)
 - [Benchmarking](#benchmarking)
+- [Communication](#communication)
 - [Compression](#compression)
 - [Concurrency](#concurrency)
 - [Cryptography and Security](#cryptography-and-security)
@@ -80,6 +81,11 @@
 |--- | ---| ---|--- |
 | [nanobench](https://github.com/martinus/nanobench) | [![GitHub stars](https://img.shields.io/github/stars/martinus/nanobench?style=social)](https://github.com/martinus/nanobench/stargazers/) | Simple, fast, accurate microbenchmarking for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [picobench](https://github.com/iboB/picobench) | [![GitHub stars](https://img.shields.io/github/stars/iboB/picobench?style=social)](https://github.com/iboB/picobench/stargazers/) | A small microbenchmarking library for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
+## Communication
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [comms](https://github.com/commschamp/comms_champion) | [![GitHub stars](https://img.shields.io/github/stars/commschamp/comms_champion?style=social)](https://github.com/commschamp/comms_champion/stargazers/) | Implement binary communication protocols in >=C++11. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
 
 ## Compression
 

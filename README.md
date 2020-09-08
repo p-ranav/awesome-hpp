@@ -281,6 +281,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [BitmapPlusPlus](https://github.com/BaderEddineOuaich/BitmapPlusPlus) | [![GitHub stars](https://img.shields.io/github/stars/BaderEddineOuaich/BitmapPlusPlus?style=social)](https://github.com/BaderEddineOuaich/BitmapPlusPlus/stargazers/) | Simple and Fast header only Bitmap (BMP) library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [nanopm](https://github.com/unclearness/nanopm) | [![GitHub stars](https://img.shields.io/github/stars/unclearness/nanopm?style=social)](https://github.com/unclearness/nanopm/stargazers/) | NanoPM, single header only PatchMatch. | |
 

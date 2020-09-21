@@ -354,6 +354,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [booleval](https://github.com/m-peko/booleval) | [![GitHub stars](https://img.shields.io/github/stars/m-peko/booleval?style=social)](https://github.com/m-peko/booleval/stargazers/) | Modern C++17 library for evaluating logical expressions. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [cpp-peglib](https://github.com/yhirose/cpp-peglib) | [![GitHub stars](https://img.shields.io/github/stars/yhirose/cpp-peglib?style=social)](https://github.com/yhirose/cpp-peglib/stargazers/) | PEG (Parsing Expression Grammars) library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [PEGTL](https://github.com/taocpp/PEGTL) | [![GitHub stars](https://img.shields.io/github/stars/taocpp/PEGTL?style=social)](https://github.com/taocpp/PEGTL/stargazers/) | Parsing Expression Grammar Template Library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 

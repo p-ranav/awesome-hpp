@@ -431,6 +431,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [hfsm2](https://github.com/andrew-gresyk/HFSM2) | [![GitHub stars](https://img.shields.io/github/stars/andrew-gresyk/HFSM2?style=social)](https://github.com/andrew-gresyk/HFSM2/stargazers/) | High-performance hierarchical finite state machine framework. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [hsm](https://github.com/erikzenker/hsm) | [![GitHub stars](https://img.shields.io/github/stars/erikzenker/hsm?style=social)](https://github.com/erikzenker/hsm/stargazers/) | Finite state machine library based on the boost hana. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 

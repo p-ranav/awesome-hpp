@@ -52,6 +52,7 @@
 - [Terminal Utilities](#terminal-utilities)
 - [Testing Frameworks](#testing-frameworks)
 - [Units](#units)
+- [Validation](#validation)
 - [Web Frameworks](#web-frameworks)
 
 ## Argument Parsers
@@ -484,6 +485,12 @@
 | [mpusz/units](https://github.com/mpusz/units) | [![GitHub stars](https://img.shields.io/github/stars/mpusz/units?style=social)](https://github.com/mpusz/units/stargazers/) | Compile-time dimensional analysis and unit/quantity manipulation. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [nholthaus/units](https://github.com/nholthaus/units) | [![GitHub stars](https://img.shields.io/github/stars/nholthaus/units?style=social)](https://github.com/nholthaus/units/stargazers/) | Dimensional analysis and unit conversion library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [SI](https://github.com/bernedom/SI) | [![GitHub stars](https://img.shields.io/github/stars/bernedom/SI?style=social)](https://github.com/bernedom/SI/stargazers/) | Type safety and user defined literals for physical units. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
+## Validation
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [cpp-validator](https://github.com/evgeniums/cpp-validator) | [![GitHub stars](https://img.shields.io/github/stars/evgeniums/cpp-validator?style=social)](https://github.com/evgeniums/cpp-validator/stargazers/) | C++ library for data validation. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 
 ## Web Frameworks
 

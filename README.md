@@ -285,6 +285,7 @@
 |--- | ---| ---|--- |
 | [BitmapPlusPlus](https://github.com/BaderEddineOuaich/BitmapPlusPlus) | [![GitHub stars](https://img.shields.io/github/stars/BaderEddineOuaich/BitmapPlusPlus?style=social)](https://github.com/BaderEddineOuaich/BitmapPlusPlus/stargazers/) | Simple and Fast header only Bitmap (BMP) library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [color](https://github.com/dmilos/color)        | [![GitHub stars](https://img.shields.io/github/stars/dmilos/color?style=social)](https://github.com/dmilos/color/stargazers/) | Color manipulation and conversion among different types( RGB, LAB, HSV, ... ) and formats( std::uint8_t, float, ... ). | [![License: MIT](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [nanopm](https://github.com/unclearness/nanopm) | [![GitHub stars](https://img.shields.io/github/stars/unclearness/nanopm?style=social)](https://github.com/unclearness/nanopm/stargazers/) | NanoPM, single header only PatchMatch. | |
 
 ## Language Bindings

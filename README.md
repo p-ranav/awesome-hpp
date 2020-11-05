@@ -78,9 +78,9 @@
 
 ## Benchmarking
 
-
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [criterion](https://github.com/p-ranav/criterion) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/criterion?style=social)](https://github.com/p-ranav/criterion/stargazers/) | Microbenchmarking for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [nanobench](https://github.com/martinus/nanobench) | [![GitHub stars](https://img.shields.io/github/stars/martinus/nanobench?style=social)](https://github.com/martinus/nanobench/stargazers/) | Simple, fast, accurate microbenchmarking for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [picobench](https://github.com/iboB/picobench) | [![GitHub stars](https://img.shields.io/github/stars/iboB/picobench?style=social)](https://github.com/iboB/picobench/stargazers/) | A small microbenchmarking library for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 

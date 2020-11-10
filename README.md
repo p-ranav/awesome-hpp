@@ -6,6 +6,13 @@
   <b>A curated list of awesome header-only C++ libraries</b>
 </p>
 
+
+<p align="center">
+  <a href="https://travis-ci.com/p-ranav/awesome-hpp">
+    <img src="https://travis-ci.com/p-ranav/awesome-hpp.svg?branch=master" alt="ci status"/>
+  </a>
+</p>
+
 ## Table of Contents
 
 - [Argument Parsers](#argument-parsers)

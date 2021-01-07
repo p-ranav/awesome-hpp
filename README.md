@@ -133,6 +133,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [bencode](https://github.com/fbdtemme/bencode) | [![GitHub stars](https://img.shields.io/github/stars/fbdtemme/bencode?style=social)](https://github.com/fbdtemme/bencode/stargazers/) | C++20 bencode library. | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [Boost.JSON](https://github.com/CPPAlliance/json) | [![GitHub stars](https://img.shields.io/github/stars/CPPAlliance/json?style=social)](https://github.com/CPPAlliance/json/stargazers/) | JSON parsing, serialization, inspection and modification. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [cpptoml](https://github.com/skystrife/cpptoml) | [![GitHub stars](https://img.shields.io/github/stars/skystrife/cpptoml?style=social)](https://github.com/skystrife/cpptoml/stargazers/) | Header-only library for parsing TOML. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [csv2](https://github.com/p-ranav/csv2) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/csv2?style=social)](https://github.com/p-ranav/csv2/stargazers/) | Fast CSV parser and writer for Modern C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

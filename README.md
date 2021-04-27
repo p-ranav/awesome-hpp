@@ -35,6 +35,7 @@
 - [Geometry, Graphics Processing, and Game Development](#geometry-graphics-processing-and-game-development)
 - [GPU](#gpu)
 - [GUI](#gui)
+- [High-performance Computing](#high-performance-computing)
 - [HTTP and the Web](#http-and-the-web)
 - [Image Processing](#image-processing)
 - [Language Bindings](#language-bindings)
@@ -279,6 +280,12 @@
 | [GuiLite](https://github.com/idea4good/GuiLite) | [![GitHub stars](https://img.shields.io/github/stars/idea4good/GuiLite?style=social)](https://github.com/idea4good/GuiLite/stargazers/) | The smallest header-only GUI library(5 KLOC) for all platforms. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
 | [Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) | [![GitHub stars](https://img.shields.io/github/stars/Immediate-Mode-UI/Nuklear?style=social)](https://github.com/Immediate-Mode-UI/Nuklear/stargazers/) | Immediate mode cross-platform GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [WinLamb](https://github.com/rodrigocfd/winlamb) | [![GitHub stars](https://img.shields.io/github/stars/rodrigocfd/winlamb?style=social)](https://github.com/rodrigocfd/winlamb/stargazers/) | C++11 native Win32 GUI library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+
+## High-performance Computing
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [MPL](https://github.com/rabauke/mpl) | [![GitHub stars](https://img.shields.io/github/stars/rabauke/mpl?style=social)](https://github.com/rabauke/mpl/) | A C++11 message passing library based on the [Message Passing Interface](https://www.mpi-forum.org/) standard. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
 ## HTTP and the Web
 

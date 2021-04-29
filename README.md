@@ -114,6 +114,7 @@
 | [taskflow](https://github.com/taskflow/taskflow) | [![GitHub stars](https://img.shields.io/github/stars/taskflow/taskflow?style=social)](https://github.com/taskflow/taskflow/stargazers/) | Modern C++ Parallel Task Programming. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [task_system](https://github.com/p-ranav/task_system) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/task_system?style=social)](https://github.com/p-ranav/task_system/stargazers/) | Better Code: Concurrency - Sean Parent. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [transwarp](https://github.com/bloomen/transwarp) | [![GitHub stars](https://img.shields.io/github/stars/bloomen/transwarp?style=social)](https://github.com/bloomen/transwarp/stargazers/) | A header-only C++ library for task concurrency. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [taskpool](https://github.com/fawdlstty/taskpool) | [![GitHub stars](https://img.shields.io/github/stars/fawdlstty/taskpool?style=social)](https://github.com/fawdlstty/taskpool/stargazers/) | Modern C++ taskpool. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Cryptography and Security
 
@@ -458,6 +459,7 @@
 | [hfsm2](https://github.com/andrew-gresyk/HFSM2) | [![GitHub stars](https://img.shields.io/github/stars/andrew-gresyk/HFSM2?style=social)](https://github.com/andrew-gresyk/HFSM2/stargazers/) | High-performance hierarchical finite state machine framework. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [hsm](https://github.com/erikzenker/hsm) | [![GitHub stars](https://img.shields.io/github/stars/erikzenker/hsm?style=social)](https://github.com/erikzenker/hsm/stargazers/) | Finite state machine library based on the boost hana. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tinyfsm](https://github.com/digint/tinyfsm) | [![GitHub stars](https://img.shields.io/github/stars/digint/tinyfsm?style=social)](https://github.com/digint/tinyfsm/stargazers/) | A simple C++ finite state machine library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [SMLite](https://github.com/fawdlstty/SMLite) | [![GitHub stars](https://img.shields.io/github/stars/fawdlstty/SMLite?style=social)](https://github.com/fawdlstty/SMLite/stargazers/) | State machine library for C, C++, C#, Java, JavaScript, Python, `VB.Net`. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Statistics
 

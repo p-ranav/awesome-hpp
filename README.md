@@ -122,7 +122,7 @@
 |--- | ---| ---|--- |
 | [cppcodec](https://github.com/tplgy/cppcodec) | [![GitHub stars](https://img.shields.io/github/stars/tplgy/cppcodec?style=social)](https://github.com/tplgy/cppcodec/stargazers/) | Encode/decode base64, base64url, base32, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) &nbsp; &nbsp; | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
-| [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Feader-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Header-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Databases
 

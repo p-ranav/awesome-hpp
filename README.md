@@ -6,11 +6,9 @@
   <b>A curated list of awesome header-only C++ libraries</b>
 </p>
 
-
 <p align="center">
-  <a href="https://travis-ci.com/p-ranav/awesome-hpp">
-    <img src="https://travis-ci.com/p-ranav/awesome-hpp.svg?branch=master" alt="ci status"/>
-  </a>
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://github.com/sindresorhus/awesome/blob/main/media/badge.svg">
 </p>
 
 ## Table of Contents

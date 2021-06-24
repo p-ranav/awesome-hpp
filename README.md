@@ -32,6 +32,7 @@
 - [Functional Programming](#functional-programming)
 - [Geometry, Graphics Processing, and Game Development](#geometry-graphics-processing-and-game-development)
 - [GPU](#gpu)
+- [Graph](#graph)
 - [GUI](#gui)
 - [High-performance Computing](#high-performance-computing)
 - [HTTP and the Web](#http-and-the-web)
@@ -272,6 +273,12 @@
 | [thrust](https://github.com/thrust/thrust) | [![GitHub stars](https://img.shields.io/github/stars/thrust/thrust?style=social)](https://github.com/thrust/thrust/stargazers/) | Parallel programming library. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | [vuda](https://github.com/jgbit/vuda) | [![GitHub stars](https://img.shields.io/github/stars/jgbit/vuda?style=social)](https://github.com/jgbit/vuda/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Vulkan-based library that provides a CUDA Runtime API interface for writing GPU-accelerated applications. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Graph
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
+  
 ## GUI
 
 | Library  | Stars |  Description | License  |

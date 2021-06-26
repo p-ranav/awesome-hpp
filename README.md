@@ -27,6 +27,7 @@
 - [Data Querying](#data-querying)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Debugging](#debugging)
+- [Deep Learning](#deep-learning)
 - [Event Handling Mechanisms](#event-handling-mechanisms)
 - [File System](#file-system)
 - [Functional Programming](#functional-programming)
@@ -212,6 +213,12 @@
 |--- | ---| ---|--- |
 | [backward-cpp](https://github.com/bombela/backward-cpp) | [![GitHub stars](https://img.shields.io/github/stars/bombela/backward-cpp?style=social)](https://github.com/bombela/backward-cpp/stargazers/) | A beautiful stack trace pretty printer for C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Deep Learning
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [ceras](https://github.com/fengwang/ceras) | [![GitHub stars](https://img.shields.io/github/stars/fengwang/ceras?style=social)](https://github.com/fengwang/ceras/stargazers/) | A deep learning engine in C++20. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+
 ## Event Handling Mechanisms
 
 | Library  | Stars |  Description | License  |
@@ -277,8 +284,8 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
-  
+| [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
 ## GUI
 
 | Library  | Stars |  Description | License  |

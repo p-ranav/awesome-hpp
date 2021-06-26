@@ -27,6 +27,7 @@
 - [Data Querying](#data-querying)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Debugging](#debugging)
+- [Deep Learning](#deep-learning)
 - [Event Handling Mechanisms](#event-handling-mechanisms)
 - [File System](#file-system)
 - [Functional Programming](#functional-programming)
@@ -212,6 +213,12 @@
 |--- | ---| ---|--- |
 | [backward-cpp](https://github.com/bombela/backward-cpp) | [![GitHub stars](https://img.shields.io/github/stars/bombela/backward-cpp?style=social)](https://github.com/bombela/backward-cpp/stargazers/) | A beautiful stack trace pretty printer for C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
+## Deep Learning
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [ceras](https://github.com/fengwang/ceras) | [![GitHub stars](https://img.shields.io/github/stars/fengwang/ceras?style=social)](https://github.com/fengwang/ceras/stargazers/) | A deep learning engine in C++20. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+
 ## Event Handling Mechanisms
 
 | Library  | Stars |  Description | License  |
@@ -277,8 +284,8 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
-| [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  
-  
+| [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
 ## GUI
 
 | Library  | Stars |  Description | License  |
@@ -344,6 +351,7 @@
 | [libmorton](https://github.com/Forceflow/libmorton) | [![GitHub stars](https://img.shields.io/github/stars/Forceflow/libmorton?style=social)](https://github.com/Forceflow/libmorton/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [linalg](https://github.com/sgorsten/linalg) | [![GitHub stars](https://img.shields.io/github/stars/sgorsten/linalg?style=social)](https://github.com/sgorsten/linalg/stargazers/) | Short vector math library for C++. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [matplotlib-cpp](https://github.com/lava/matplotlib-cpp) | [![GitHub stars](https://img.shields.io/github/stars/lava/matplotlib-cpp?style=social)](https://github.com/lava/matplotlib-cpp/stargazers/) | C++ plotting library built on the popular matplotlib. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [matrix](https://github.com/fengwang/matrix) | [![GitHub stars](https://img.shields.io/github/stars/fengwang/matrix?style=social)](https://github.com/fengwang/matrix/stargazers/) | A 2D matrix lib in C++20. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [NumCpp](https://github.com/dpilger26/NumCpp) | [![GitHub stars](https://img.shields.io/github/stars/dpilger26/NumCpp?style=social)](https://github.com/dpilger26/NumCpp/stargazers/) | C++ implementation of the Python Numpy library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [random](https://github.com/effolkronium/random) | [![GitHub stars](https://img.shields.io/github/stars/effolkronium/random?style=social)](https://github.com/effolkronium/random/stargazers/) | Random for modern C++ with convenient API. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [spectra](https://github.com/yixuan/spectra) | [![GitHub stars](https://img.shields.io/github/stars/yixuan/spectra?style=social)](https://github.com/yixuan/spectra/stargazers/) | A header-only C++ library for large scale eigenvalue problems. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |

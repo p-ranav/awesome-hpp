@@ -124,6 +124,7 @@
 | [digestpp](https://github.com/kerukuro/digestpp) | [![GitHub stars](https://img.shields.io/github/stars/kerukuro/digestpp?style=social)](https://github.com/kerukuro/digestpp/stargazers/) &nbsp; &nbsp; | C++11 header-only message digest library. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [PicoSHA2](https://github.com/okdshin/PicoSHA2) | [![GitHub stars](https://img.shields.io/github/stars/okdshin/PicoSHA2?style=social)](https://github.com/okdshin/PicoSHA2/stargazers/) | Header-file-only, SHA256 hash generator in C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [plusaes](https://github.com/kkAyataka/plusaes) | [![GitHub stars](https://img.shields.io/github/stars/kkAyataka/plusaes?style=social)](https://github.com/kkAyataka/plusaes/stargazers/) | Header only C++ AES cipher library. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [stduuid](https://github.com/mariusbancila/stduuid) | [![GitHub stars](https://img.shields.io/github/stars/mariusbancila/stduuid?style=social)](https://github.com/mariusbancila/stduuid/stargazers/) | A C++17 cross-platform implementation for UUIDs. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Databases
 

@@ -315,6 +315,7 @@
 | [jwt-cpp](https://github.com/Thalhammer/jwt-cpp) | [![GitHub stars](https://img.shields.io/github/stars/Thalhammer/jwt-cpp?style=social)](https://github.com/Thalhammer/jwt-cpp/stargazers/) | Create and validate JSON web tokens. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [RESTinio](https://github.com/Stiffstream/restinio) | [![GitHub stars](https://img.shields.io/github/stars/Stiffstream/restinio?style=social)](https://github.com/Stiffstream/restinio/stargazers/) | Asynchronous HTTP/WebSocket server C++14 library | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [cuehttp](https://github.com/xcyl/cuehttp) | [![GitHub stars](https://img.shields.io/github/stars/xcyl/cuehttp?style=social)](https://github.com/xcyl/cuehttp/stargazers/) | Modern c++ middleware framework for http(http/https)/websocket(ws/wss). | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [libfv](https://github.com/fawdlstty/libfv) | [![GitHub stars](https://img.shields.io/github/stars/fawdlstty/libfv?style=social)](https://github.com/fawdlstty/libfv/stargazers/) | libfv is C++20 header-only network library, support TCP/SSL/Http/websocket server and client | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Image Processing
 

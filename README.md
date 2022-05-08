@@ -422,6 +422,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [compile-time regular expressions](https://github.com/hanickadot/compile-time-regular-expressions) | [![GitHub stars](https://img.shields.io/github/stars/hanickadot/compile-time-regular-expressions?style=social)](https://github.com/hanickadot/compile-time-regular-expressions/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; | A Compile time regular expression matcher. | [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) |
+| [SRELL](https://github.com/ZimProjects/SRELL) | [![GitHub stars](https://img.shields.io/github/stars/ZimProjects/SRELL?style=social)](https://github.com/ZimProjects/SRELL/stargazers/) &nbsp; &nbsp; &nbsp; &nbsp; | A ECMAScript (JavaScript) compatible regular expression engine. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 
 ## Robotics
 

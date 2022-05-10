@@ -39,6 +39,7 @@
 - [HTTP and the Web](#http-and-the-web)
 - [Image Processing](#image-processing)
 - [Language Bindings](#language-bindings)
+- [Language Development](#language-development)
 - [Logging](#logging)
 - [Mathematics](#mathematics)
 - [Memory Management](#memory-management)
@@ -336,6 +337,12 @@
 | [Selene](https://github.com/jeremyong/Selene) | [![GitHub stars](https://img.shields.io/github/stars/jeremyong/Selene?style=social)](https://github.com/jeremyong/Selene/stargazers/) | Simple C++11 friendly bindings to Lua. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 | [Sol](https://github.com/ThePhD/sol2) | [![GitHub stars](https://img.shields.io/github/stars/ThePhD/sol2?style=social)](https://github.com/ThePhD/sol2) | Sol3 (sol2 v3.0) - a C++ <-> Lua API wrapper with advanced features and top notch performance. | [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [v8pp](https://github.com/pmed/v8pp) | [![GitHub stars](https://img.shields.io/github/stars/pmed/v8pp?style=social)](https://github.com/pmed/v8pp/stargazers/) | Bind C++ functions and classes into V8 JavaScript engine. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+
+## Language Development
+
+ | Library  | Stars |  Description | License  |
+ |--- | ---| ---|--- |
+ | [Command Interpreter](https://github.com/empirical-soft/command-interpreter) | [![GitHub stars](https://img.shields.io/github/stars/empirical-soft/command-interpreter?style=social)](https://github.com/empirical-soft/command-interpreter/stargazers/) | Add a command interpreter (eg., REPL) to any C++ program. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 
 ## Logging
 

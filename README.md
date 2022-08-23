@@ -377,6 +377,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [sfl::pool_allocator](https://github.com/slavenf/sfl-pool-allocator)  | [![GitHub stars](https://img.shields.io/github/stars/slavenf/sfl-pool-allocator?style=social)](https://github.com/slavenf/sfl-pool-allocator/stargazers/) | C++11 memory allocator based on memory pools. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 | [ugc](https://github.com/bullno1/ugc) | [![GitHub stars](https://img.shields.io/github/stars/bullno1/ugc?style=social)](https://github.com/bullno1/ugc/stargazers/) | Incremental garbage collector. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 
 ## Mocking

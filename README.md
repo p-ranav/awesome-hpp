@@ -448,6 +448,7 @@
 | [essentials](https://github.com/jermp/essentials) | [![GitHub stars](https://img.shields.io/github/stars/jermp/essentials?style=social)](https://github.com/jermp/essentials/stargazers/) | Transparent serialization/deserialization. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [fuser](https://github.com/Xeverous/fuser) | [![GitHub stars](https://img.shields.io/github/stars/Xeverous/fuser?style=social)](https://github.com/Xeverous/fuser/stargazers/) | Automatic (de)serialization of C++ types to/from JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [YAS](https://github.com/nixman/yas) | [![GitHub stars](https://img.shields.io/github/stars/niXman/yas?style=social)](https://github.com/niXman/yas/stargazers/) | A C++11 (de)serialization library with support for binary/text/json archives. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [cista](https://github.com/felixguendling/cista) | [![GitHub stars](https://img.shields.io/github/stars/felixguendling/cista?style=social)](https://github.com/felixguendling/cista/) | simple, high-performance, zero-copy C++ serialization & reflection library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## SIMD
 

@@ -444,6 +444,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [alpaca](https://github.com/p-ranav/alpaca) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/alpaca?style=social)](https://github.com/p-ranav/alpaca/stargazers/) | Serialization library written in C++17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [cereal](https://github.com/USCiLab/cereal) | [![GitHub stars](https://img.shields.io/github/stars/USCiLab/cereal?style=social)](https://github.com/USCiLab/cereal/stargazers/) | A C++11 library for serialization. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 | [essentials](https://github.com/jermp/essentials) | [![GitHub stars](https://img.shields.io/github/stars/jermp/essentials?style=social)](https://github.com/jermp/essentials/stargazers/) | Transparent serialization/deserialization. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [fuser](https://github.com/Xeverous/fuser) | [![GitHub stars](https://img.shields.io/github/stars/Xeverous/fuser?style=social)](https://github.com/Xeverous/fuser/stargazers/) | Automatic (de)serialization of C++ types to/from JSON. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

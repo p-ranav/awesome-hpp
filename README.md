@@ -60,6 +60,7 @@
 - [Templating Engines](#templating-engines)
 - [Terminal Utilities](#terminal-utilities)
 - [Testing Frameworks](#testing-frameworks)
+- [Unicode](#unicode)
 - [Units](#units)
 - [Validation](#validation)
 - [Web Frameworks](#web-frameworks)
@@ -537,6 +538,13 @@
 | [lest](https://github.com/martinmoene/lest) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/lest?style=social)](https://github.com/martinmoene/lest/stargazers/) | Tiny framework for unit-tests, TDD and BDD. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [snitch](https://github.com/cschreib/snitch) | [![GitHub stars](https://img.shields.io/github/stars/cschreib/snitch?style=social)](https://github.com/cschreib/snitch/stargazers/) | Lightweight C++20 testing framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [ut](https://github.com/boost-ext/ut) | [![GitHub stars](https://img.shields.io/github/stars/boost-ext/ut?style=social)](https://github.com/boost-ext/ut/stargazers/) | UT: C++20 μ(micro)/Unit Testing Framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+
+
+## Unicode
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [uni-algo](https://github.com/uni-algo/uni-algo) | [![GitHub stars](https://img.shields.io/github/stars/uni-algo/uni-algo?style=social)](https://github.com/uni-algo/uni-algo/stargazers/) | Unicode algorithms for C++17. | [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Units
 

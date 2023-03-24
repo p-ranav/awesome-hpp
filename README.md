@@ -544,6 +544,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [cpp-unicodelib](https://github.com/yhirose/cpp-unicodelib) | [![GitHub stars](https://img.shields.io/github/stars/yhirose/cpp-unicodelib?style=social)](https://github.com/yhirose/cpp-unicodelib/stargazers/) | C++17 Unicode library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [uni-algo](https://github.com/uni-algo/uni-algo) | [![GitHub stars](https://img.shields.io/github/stars/uni-algo/uni-algo?style=social)](https://github.com/uni-algo/uni-algo/stargazers/) | Unicode algorithms for C++17. | [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Units

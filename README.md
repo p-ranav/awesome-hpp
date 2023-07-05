@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>A curated list of awesome header-only C++ libraries</b>
+  <b>Awesome header-only C++ libraries</b>
 </p>
 
 <p align="center">

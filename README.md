@@ -296,6 +296,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [CXXGraph](https://github.com/ZigRazor/CXXGraph) | [![GitHub stars](https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social)](https://github.com/ZigRazor/CXXGraph/stargazers/) &nbsp; &nbsp; &nbsp; | Graph Representation and Algorithms Library >= C++17 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [![License](https://img.shields.io/badge/License-AGPL%203.0-blue.svg)](https://opensource.org/licenses/AGPL-3.0) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+| [Graaf](https://github.com/bobluppes/graaf) | [![GitHub stars](https://img.shields.io/github/stars/bobluppes/graaf?style=social)](https://github.com/bobluppes/graaf/stargazers/) | A general-purpose lightweight C++20 graph library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/license/mit/) |
 
 ## GUI
 

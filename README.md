@@ -46,6 +46,7 @@
 - [Mocking](#mocking)
 - [Networking](#networking)
 - [Optimization](#optimization)
+- [Parsing](#parsing)
 - [Parsing Expression Grammars](#parsing-expression-grammars)
 - [Portability Definitions](#portability-definitions)
 - [Reflection](#reflection)
@@ -95,6 +96,7 @@
 | [picobench](https://github.com/iboB/picobench) | [![GitHub stars](https://img.shields.io/github/stars/iboB/picobench?style=social)](https://github.com/iboB/picobench/stargazers/) | A small microbenchmarking library for C++11. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Communication
+
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [comms](https://github.com/commschamp/comms_champion) | [![GitHub stars](https://img.shields.io/github/stars/commschamp/comms_champion?style=social)](https://github.com/commschamp/comms_champion/stargazers/) | Implement binary communication protocols in >=C++11. | [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0) |
@@ -135,7 +137,6 @@
 | [OTL](http://otl.sourceforge.net/) | | Oracle, ODBC and DB2-CLI Template Library. | OpenBSD |
 
 ## Data Formats
-
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
@@ -215,7 +216,6 @@
 | [sfl-library](https://github.com/slavenf/sfl-library) | [![GitHub stars](https://img.shields.io/github/stars/slavenf/sfl-library?style=social)](https://github.com/slavenf/sfl-library/stargazers/) | Small vector. Small flat map/multimap/set/multiset (ordered and unordered). C++11. | [![License: Zlib](https://img.shields.io/badge/License-Zlib-lightgrey.svg)](https://opensource.org/licenses/Zlib) |
 | [small](https://github.com/alandefreitas/small) | [![GitHub stars](https://img.shields.io/github/stars/alandefreitas/small?style=social)](https://github.com/alandefreitas/small/stargazers/) | Implementations of the main STL containers optimized for the case when they are small. | [![License: BSL](https://img.shields.io/badge/License-bsl-lightgrey.svg)](https://opensource.org/license/bsl-1-0) |
 |[tries](https://github.com/gutjuri/tries) | [![GitHub stars](https://img.shields.io/github/stars/gutjuri/tries?style=social)](https://github.com/gutjuri/tries/stargazers/) | Fast and highly customisable C++20 trie implementation. | [![License: GPL-2.0](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue)](https://opensource.org/licenses/GPL-2.0)
-
 
 ## Debugging
 
@@ -408,6 +408,13 @@
 |--- | ---| ---|--- |
 | [ensmallen](https://github.com/mlpack/ensmallen) | [![GitHub stars](https://img.shields.io/github/stars/mlpack/ensmallen?style=social)](https://github.com/mlpack/ensmallen/stargazers/) | C++ library for numerical optimization. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
 
+## Parsing
+
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [lexertl14](https://github.com/BenHanson/lexertl14) | [![GitHub stars](https://img.shields.io/github/stars/BenHanson/lexertl14?style=social)](https://github.com/BenHanson/lexertl14/stargazers/) | The Modular Lexical Analyser Generator. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+| [parsertl14](https://github.com/BenHanson/parsertl14) | [![GitHub stars](https://img.shields.io/github/stars/BenHanson/parsertl14?style=social)](https://github.com/BenHanson/parsertl14/stargazers/) | The Modular Parser Generator. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
+
 ## Parsing Expression Grammars
 
 | Library  | Stars |  Description | License  |
@@ -542,7 +549,6 @@
 | [lest](https://github.com/martinmoene/lest) | [![GitHub stars](https://img.shields.io/github/stars/martinmoene/lest?style=social)](https://github.com/martinmoene/lest/stargazers/) | Tiny framework for unit-tests, TDD and BDD. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [snitch](https://github.com/cschreib/snitch) | [![GitHub stars](https://img.shields.io/github/stars/cschreib/snitch?style=social)](https://github.com/cschreib/snitch/stargazers/) | Lightweight C++20 testing framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [ut](https://github.com/boost-ext/ut) | [![GitHub stars](https://img.shields.io/github/stars/boost-ext/ut?style=social)](https://github.com/boost-ext/ut/stargazers/) | UT: C++20 μ(micro)/Unit Testing Framework. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
-
 
 ## Unicode
 

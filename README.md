@@ -28,6 +28,7 @@
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Debugging](#debugging)
 - [Deep Learning](#deep-learning)
+- [Dependency Injection](#dependency-injection)
 - [Event Handling Mechanisms](#event-handling-mechanisms)
 - [File System](#file-system)
 - [Functional Programming](#functional-programming)
@@ -228,6 +229,11 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [ceras](https://github.com/fengwang/ceras) | [![GitHub stars](https://img.shields.io/github/stars/fengwang/ceras?style=social)](https://github.com/fengwang/ceras/stargazers/) | A deep learning engine in C++20. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) |
+
+## Dependency Injection
+| Library  | Stars |  Description | License  |
+|--- | ---| ---|--- |
+| [inversify-cpp](https://github.com/mosure/inversify-cpp) | [![GitHub stars](https://img.shields.io/github/stars/mosure/inversify-cpp?style=social)](https://github.com/mosure/inversify-cpp/stargazers/) | C++17 inversion of control and dependency injection container library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Event Handling Mechanisms
 

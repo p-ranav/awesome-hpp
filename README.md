@@ -563,6 +563,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [LLNL/units](https://github.com/LLNL/units) | [![GitHub stars](https://img.shields.io/github/stars/LLNL/units?style=social)](https://github.com/LLNL/units/stargazers/) | Run-time unit representation and conversion. | [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) | 
 | [mpusz/units](https://github.com/mpusz/units) | [![GitHub stars](https://img.shields.io/github/stars/mpusz/units?style=social)](https://github.com/mpusz/units/stargazers/) | Compile-time dimensional analysis and unit/quantity manipulation. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [nholthaus/units](https://github.com/nholthaus/units) | [![GitHub stars](https://img.shields.io/github/stars/nholthaus/units?style=social)](https://github.com/nholthaus/units/stargazers/) | Dimensional analysis and unit conversion library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [SI](https://github.com/bernedom/SI) | [![GitHub stars](https://img.shields.io/github/stars/bernedom/SI?style=social)](https://github.com/bernedom/SI/stargazers/) | Type safety and user defined literals for physical units. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

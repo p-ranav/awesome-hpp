@@ -86,6 +86,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [miniaudio](https://github.com/mackron/miniaudio) | [![GitHub stars](https://img.shields.io/github/stars/mackron/miniaudio?style=social)](https://github.com/mackron/miniaudio/stargazers/) | Audio playback and capture library written in C, in a single source file. | [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) |
 | [minimp3](https://github.com/lieff/minimp3) | [![GitHub stars](https://img.shields.io/github/stars/lieff/minimp3?style=social)](https://github.com/lieff/minimp3/stargazers/) | Minimalistic MP3 decoder single header library. | [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/) |
 
 ## Benchmarking

@@ -537,7 +537,7 @@
 |--- | ---| ---|--- |
 | [utf-cpp](https://github.com/ww898/utf-cpp) | [![GitHub stars](https://img.shields.io/github/stars/ww898/utf-cpp?style=social)](https://github.com/ww898/utf-cpp/stargazers/) | UTF-8/16/32 for Windows/Linux/MacOs. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [wildcards](https://github.com/zemasoft/wildcards) | [![GitHub stars](https://img.shields.io/github/stars/zemasoft/wildcards?style=social)](https://github.com/zemasoft/wildcards/stargazers/) | String matching using wildcards. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
-| [s2n]([https://github.com/zemasoft/wildcards](https://github.com/forgotthepen/string-to-number)) | [![GitHub stars](https://img.shields.io/github/stars/zemasoft/wildcards?style=social)]([https://github.com/zemasoft/wildcards](https://github.com/forgotthepen/string-to-number)/stargazers/) | s2n (String to Number) interface which could be used with other libraries for C-string compile-time manipulation. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [s2n](https://github.com/forgotthepen/string-to-number) | [![GitHub stars](https://img.shields.io/github/stars/forgotthepen/string-to-number?style=social)](https://github.com/forgotthepen/string-to-number/stargazers/) | Interface for C-string manipulation at compile-time. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Templating Engines
 

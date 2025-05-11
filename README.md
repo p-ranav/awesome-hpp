@@ -480,6 +480,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [BasicSIMD](https://github.com/bertaye/BasicSIMD) | [![GitHub stars](https://img.shields.io/github/stars/bertaye/BasicSIMD?style=social)](https://github.com/bertaye/BasicSIMD/stargazers/) |C++ Single Header SIMD Library. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [libsimdpp](https://github.com/p12tic/libsimdpp) | [![GitHub stars](https://img.shields.io/github/stars/p12tic/libsimdpp?style=social)](https://github.com/p12tic/libsimdpp/stargazers/) | Low-level SIMD library. | [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt) |
 | [simde](https://github.com/simd-everywhere/simde) | [![GitHub stars](https://img.shields.io/github/stars/simd-everywhere/simde?style=social)](https://github.com/simd-everywhere/simde/stargazers/) | Implementations of SIMD instruction sets. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [tsimd](https://github.com/ospray/tsimd) | [![GitHub stars](https://img.shields.io/github/stars/ospray/tsimd?style=social)](https://github.com/ospray/tsimd/stargazers/) | Fundamental C++ SIMD types for Intel CPUs. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |

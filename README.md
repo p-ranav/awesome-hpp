@@ -226,6 +226,7 @@
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
 | [backward-cpp](https://github.com/bombela/backward-cpp) | [![GitHub stars](https://img.shields.io/github/stars/bombela/backward-cpp?style=social)](https://github.com/bombela/backward-cpp/stargazers/) | A beautiful stack trace pretty printer for C++. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
+| [utl::profiler](https://github.com/DmitriBogdanov/UTL/blob/master/docs/module_profiler.md) | [![GitHub stars](https://img.shields.io/github/stars/DmitriBogdanov/UTL?style=social)](https://github.com/DmitriBogdanov/UTL/) | Call-graph profiler for C++17. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 
 ## Deep Learning
 

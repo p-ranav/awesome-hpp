@@ -115,6 +115,7 @@
 
 | Library  | Stars |  Description | License  |
 |--- | ---| ---|--- |
+| [channel](https://github.com/andreiavrammsd/cpp-channel) | [![GitHub stars](https://img.shields.io/github/stars/andreiavrammsd/cpp-channel?style=social)](https://github.com/andreiavrammsd/cpp-channel/stargazers/) | C++11 synchronized queue. | ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) |
 | [cs_libguarded](https://github.com/copperspice/cs_libguarded) | [![GitHub stars](https://img.shields.io/github/stars/copperspice/cs_libguarded?style=social)](https://github.com/copperspice/cs_libguarded/stargazers/) | Multithreaded programming. | [![License](https://img.shields.io/badge/License-BSD%202--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause) |
 | [taskflow](https://github.com/taskflow/taskflow) | [![GitHub stars](https://img.shields.io/github/stars/taskflow/taskflow?style=social)](https://github.com/taskflow/taskflow/stargazers/) | Modern C++ Parallel Task Programming. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [task_system](https://github.com/p-ranav/task_system) | [![GitHub stars](https://img.shields.io/github/stars/p-ranav/task_system?style=social)](https://github.com/p-ranav/task_system/stargazers/) | Better Code: Concurrency - Sean Parent. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
